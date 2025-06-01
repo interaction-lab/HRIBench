@@ -1,0 +1,7177 @@
+{
+    "demo_0": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": true
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front",
+        "time_taken": 1.1564631462097168
+    },
+    "demo_1": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": true
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (1) Directly to the left",
+        "time_taken": 0.7301371097564697
+    },
+    "demo_2": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": true
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (1) Directly to the left",
+        "time_taken": 0.7257659435272217
+    },
+    "demo_3": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "(8) Back-right.",
+        "time_taken": 0.6309256553649902
+    },
+    "demo_4": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": true
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "7",
+            "correct": true
+        },
+        "response": "Answer: (4) Directly behind",
+        "time_taken": 0.6937437057495117
+    },
+    "demo_5": {
+        "choices": [
+            {
+                "choice": "3",
+                "correct": true
+            },
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (6) Front-right",
+        "time_taken": 0.6712229251861572
+    },
+    "demo_6": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (7) Back-left",
+        "time_taken": 0.6702086925506592
+    },
+    "demo_7": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (8) Back-right",
+        "time_taken": 0.6699576377868652
+    },
+    "demo_8": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front",
+        "time_taken": 0.7059555053710938
+    },
+    "demo_9": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front",
+        "time_taken": 0.7063314914703369
+    },
+    "demo_10": {
+        "choices": [
+            {
+                "choice": "6",
+                "correct": true
+            },
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (1) Directly to the left",
+        "time_taken": 0.7298963069915771
+    },
+    "demo_11": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": true
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "7",
+            "correct": true
+        },
+        "response": "Answer: (8) Back-right",
+        "time_taken": 0.6601574420928955
+    },
+    "demo_12": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (4) Directly behind",
+        "time_taken": 0.6832947731018066
+    },
+    "demo_13": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (1) Directly to the left",
+        "time_taken": 0.7458648681640625
+    },
+    "demo_14": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": true
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (1) Directly to the left",
+        "time_taken": 0.7453675270080566
+    },
+    "demo_15": {
+        "choices": [
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (8) Back-right",
+        "time_taken": 0.6707501411437988
+    },
+    "demo_16": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "2",
+            "correct": true
+        },
+        "response": "Answer: (1/2/...)",
+        "time_taken": 0.689828634262085
+    },
+    "demo_17": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": true
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (1/2/...)",
+        "time_taken": 0.6934969425201416
+    },
+    "demo_18": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": true
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "2",
+            "correct": true
+        },
+        "response": "Answer: 1",
+        "time_taken": 0.5964810848236084,
+        "extracted_value": "1"
+    },
+    "demo_19": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "1",
+                "correct": true
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (2) the robot's gripper in the frame.",
+        "time_taken": 0.8250045776367188
+    },
+    "demo_20": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front",
+        "time_taken": 0.588043212890625
+    },
+    "demo_21": {
+        "choices": [
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (1) Directly to the left",
+        "time_taken": 0.6168050765991211
+    },
+    "demo_22": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": true
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "7",
+            "correct": true
+        },
+        "response": "Answer: (8) Back-right",
+        "time_taken": 0.539625883102417
+    },
+    "demo_23": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (6) Front-right",
+        "time_taken": 0.5404510498046875
+    },
+    "demo_24": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (1) Directly to the left",
+        "time_taken": 0.610863208770752
+    },
+    "demo_25": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (2) Directly to the right",
+        "time_taken": 0.6169681549072266
+    },
+    "demo_26": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (1) Directly to the left",
+        "time_taken": 0.6102573871612549
+    },
+    "demo_27": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (8) Back-right",
+        "time_taken": 0.5471627712249756
+    },
+    "demo_28": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (2) Directly to the right",
+        "time_taken": 0.6176741123199463
+    },
+    "demo_29": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (1) Directly to the left",
+        "time_taken": 0.6175658702850342
+    },
+    "demo_30": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "(3) Directly in front",
+        "time_taken": 0.6575803756713867
+    },
+    "demo_31": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (6) Front-right",
+        "time_taken": 0.6679501533508301
+    },
+    "demo_32": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "8",
+            "correct": true
+        },
+        "response": "Answer: (8) Back-right",
+        "time_taken": 0.6582591533660889
+    },
+    "demo_33": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front",
+        "time_taken": 0.7008817195892334
+    },
+    "demo_34": {
+        "choices": [
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "(3) Directly in front",
+        "time_taken": 0.6673080921173096
+    },
+    "demo_35": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly front",
+        "time_taken": 0.6894574165344238
+    },
+    "demo_36": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": true
+            },
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "2",
+            "correct": true
+        },
+        "response": "Answer: (6) Front-right",
+        "time_taken": 0.6578938961029053
+    },
+    "demo_37": {
+        "choices": [
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (8) Back-right",
+        "time_taken": 0.6671535968780518
+    },
+    "demo_38": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front",
+        "time_taken": 0.7151472568511963
+    },
+    "demo_39": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": true
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "2",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front",
+        "time_taken": 0.7054605484008789
+    },
+    "demo_40": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front",
+        "time_taken": 0.7130773067474365
+    },
+    "demo_41": {
+        "choices": [
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (1) Directly to the left",
+        "time_taken": 0.7230017185211182
+    },
+    "demo_42": {
+        "choices": [
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (8) Back-right",
+        "time_taken": 0.6558136940002441
+    },
+    "demo_43": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": true
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front",
+        "time_taken": 0.7158358097076416
+    },
+    "demo_44": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "2",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front",
+        "time_taken": 0.7144711017608643
+    },
+    "demo_45": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "1",
+                "correct": true
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (4) Directly behind",
+        "time_taken": 0.6904139518737793
+    },
+    "demo_46": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (6) Front-right",
+        "time_taken": 0.6571497917175293
+    },
+    "demo_47": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": true
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (4) Directly behind",
+        "time_taken": 0.6921355724334717
+    },
+    "demo_48": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (4) Directly behind",
+        "time_taken": 0.6812427043914795
+    },
+    "demo_49": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": true
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "2",
+            "correct": true
+        },
+        "response": "Answer: (4) Directly behind",
+        "time_taken": 0.6804695129394531
+    },
+    "demo_50": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front.",
+        "time_taken": 0.7373437881469727
+    },
+    "demo_51": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front.",
+        "time_taken": 0.7260046005249023
+    },
+    "demo_52": {
+        "choices": [
+            {
+                "choice": "6",
+                "correct": true
+            },
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front.",
+        "time_taken": 0.7370884418487549
+    },
+    "demo_53": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": true
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front.",
+        "time_taken": 0.7370219230651855
+    },
+    "demo_54": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": true
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "7",
+            "correct": true
+        },
+        "response": "Answer: (8) Back-right.",
+        "time_taken": 0.6809968948364258
+    },
+    "demo_55": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (4) Directly behind",
+        "time_taken": 0.6898751258850098
+    },
+    "demo_56": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front.",
+        "time_taken": 0.73649001121521
+    },
+    "demo_57": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": true
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front.",
+        "time_taken": 0.736670970916748
+    },
+    "demo_58": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": true
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (2) Directly to the right",
+        "time_taken": 0.7266039848327637
+    },
+    "demo_59": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (8) Back-right.",
+        "time_taken": 0.6909956932067871
+    },
+    "demo_60": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front.",
+        "time_taken": 0.7363002300262451
+    },
+    "demo_61": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": true
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front.",
+        "time_taken": 0.7277400493621826
+    },
+    "demo_62": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (6) Front-right.",
+        "time_taken": 0.6913182735443115
+    },
+    "demo_63": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front.",
+        "time_taken": 0.7240085601806641
+    },
+    "demo_64": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": true
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "7",
+            "correct": true
+        },
+        "response": "Answer: (8) Back-right.",
+        "time_taken": 0.6811206340789795
+    },
+    "demo_65": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (4) Directly behind",
+        "time_taken": 0.6914868354797363
+    },
+    "demo_66": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (4) Directly behind",
+        "time_taken": 0.6910078525543213
+    },
+    "demo_67": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": true
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "2",
+            "correct": true
+        },
+        "response": "Answer: (4) Directly behind",
+        "time_taken": 0.6825902462005615
+    },
+    "demo_68": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (7) Back-left",
+        "time_taken": 0.6577420234680176
+    },
+    "demo_69": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (8) Back-right.",
+        "time_taken": 0.6918652057647705
+    },
+    "demo_70": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": true
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front.",
+        "time_taken": 0.7360520362854004
+    },
+    "demo_71": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (4) Directly behind",
+        "time_taken": 0.6809720993041992
+    },
+    "demo_72": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (4) Directly behind",
+        "time_taken": 0.6906280517578125
+    },
+    "demo_73": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front.",
+        "time_taken": 0.7231392860412598
+    },
+    "demo_74": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": true
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "7",
+            "correct": true
+        },
+        "response": "Answer: (8) Back-right.",
+        "time_taken": 0.6812517642974854
+    },
+    "demo_75": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (4) Directly behind",
+        "time_taken": 0.691918134689331
+    },
+    "demo_76": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (4) Directly behind",
+        "time_taken": 0.6913197040557861
+    },
+    "demo_77": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (4) Directly behind",
+        "time_taken": 0.6800045967102051
+    },
+    "demo_78": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (2) Directly to the right",
+        "time_taken": 0.7370338439941406
+    },
+    "demo_79": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (8) Back-right.",
+        "time_taken": 0.6906254291534424
+    },
+    "demo_80": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": true
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front.",
+        "time_taken": 0.7271039485931396
+    },
+    "demo_81": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (1) Directly to the left",
+        "time_taken": 0.7383911609649658
+    },
+    "demo_82": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": true
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "7",
+            "correct": true
+        },
+        "response": "Answer: (8) Back-right",
+        "time_taken": 0.6592116355895996
+    },
+    "demo_83": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (6) Front-right",
+        "time_taken": 0.6609365940093994
+    },
+    "demo_84": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (1) Directly to the left",
+        "time_taken": 0.7267568111419678
+    },
+    "demo_85": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (4) Directly behind",
+        "time_taken": 0.6897985935211182
+    },
+    "demo_86": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (4) Directly behind",
+        "time_taken": 0.6825721263885498
+    },
+    "demo_87": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (8) Back-right",
+        "time_taken": 0.6667189598083496
+    },
+    "demo_88": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (6) Front-right",
+        "time_taken": 0.6583521366119385
+    },
+    "demo_89": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (4) Directly behind",
+        "time_taken": 0.6920995712280273
+    },
+    "demo_90": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front.",
+        "time_taken": 0.7364771366119385
+    },
+    "demo_91": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (8) Back-right",
+        "time_taken": 0.6674668788909912
+    },
+    "demo_92": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": true
+            },
+            {
+                "choice": "7",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "8",
+            "correct": true
+        },
+        "response": "Answer: (8) Back-right",
+        "time_taken": 0.6619217395782471
+    },
+    "demo_93": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front",
+        "time_taken": 0.706573486328125
+    },
+    "demo_94": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "(3) Directly in front",
+        "time_taken": 0.6702592372894287
+    },
+    "demo_95": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (6) Front-right",
+        "time_taken": 0.666872501373291
+    },
+    "demo_96": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (6) Front-right",
+        "time_taken": 0.6579163074493408
+    },
+    "demo_97": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (8) Back-right",
+        "time_taken": 0.6687920093536377
+    },
+    "demo_98": {
+        "choices": [
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front",
+        "time_taken": 0.7147212028503418
+    },
+    "demo_99": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front",
+        "time_taken": 0.7053508758544922
+    },
+    "demo_100": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "1",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: 2",
+        "time_taken": 0.4743483066558838,
+        "extracted_value": "2"
+    },
+    "demo_101": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "2",
+            "correct": true
+        },
+        "response": "Answer: 1",
+        "time_taken": 0.4687192440032959,
+        "extracted_value": "1"
+    },
+    "demo_102": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "1",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: 1",
+        "time_taken": 0.467907190322876,
+        "extracted_value": "1"
+    },
+    "demo_103": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "1",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (1/2/...)",
+        "time_taken": 0.5666673183441162
+    },
+    "demo_104": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "1",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (1/2/...)",
+        "time_taken": 0.5621552467346191
+    },
+    "demo_105": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "1",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (1/2/...)",
+        "time_taken": 0.6874916553497314
+    },
+    "demo_106": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": true
+            },
+            {
+                "choice": "1",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "2",
+            "correct": true
+        },
+        "response": "Answer: (1/2/...)",
+        "time_taken": 0.6887211799621582
+    },
+    "demo_107": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "1",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (1/2/...)",
+        "time_taken": 0.676938533782959
+    },
+    "demo_108": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "1",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (1/2)",
+        "time_taken": 0.6536297798156738
+    },
+    "demo_109": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "1",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: 1",
+        "time_taken": 0.5805156230926514,
+        "extracted_value": "1"
+    },
+    "demo_110": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": true
+            },
+            {
+                "choice": "2",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (1/2/...)",
+        "time_taken": 0.6864604949951172
+    },
+    "demo_111": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "1",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (1/2/...)",
+        "time_taken": 0.6873602867126465
+    },
+    "demo_112": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": true
+            },
+            {
+                "choice": "2",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (1/2/...)",
+        "time_taken": 0.6778569221496582
+    },
+    "demo_113": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "2",
+            "correct": true
+        },
+        "response": "Answer: (2) the robot's gripper in the frame.",
+        "time_taken": 0.8269591331481934
+    },
+    "demo_114": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "1",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (1/2/...)",
+        "time_taken": 0.6885755062103271
+    },
+    "demo_115": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "1",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (1/2/...)",
+        "time_taken": 0.6769216060638428
+    },
+    "demo_116": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "2",
+            "correct": true
+        },
+        "response": "Answer: (1/2/...)",
+        "time_taken": 0.6881363391876221
+    },
+    "demo_117": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": true
+            },
+            {
+                "choice": "2",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (2) the robot's gripper in the frame.",
+        "time_taken": 0.8153512477874756
+    },
+    "demo_118": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "1",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (1/2/...)",
+        "time_taken": 0.6753461360931396
+    },
+    "demo_119": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "1",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (2) the robot's gripper in the frame.",
+        "time_taken": 0.8186690807342529
+    },
+    "demo_120": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "2",
+            "correct": true
+        },
+        "response": "Answer: (2) the robot's gripper in the frame.",
+        "time_taken": 0.816652774810791
+    },
+    "demo_121": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "1",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (1/2/...)",
+        "time_taken": 0.6738569736480713
+    },
+    "demo_122": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "1",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (1/2/...)",
+        "time_taken": 0.6769182682037354
+    },
+    "demo_123": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": true
+            },
+            {
+                "choice": "2",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (1/2/...)",
+        "time_taken": 0.6876125335693359
+    },
+    "demo_124": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": true
+            },
+            {
+                "choice": "2",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (1/2/...)",
+        "time_taken": 0.6859931945800781
+    },
+    "demo_125": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "1",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (1/2/...)",
+        "time_taken": 0.6865968704223633
+    },
+    "demo_126": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "[2/4]",
+        "time_taken": 0.2916717529296875
+    },
+    "demo_127": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "[3/4]",
+        "time_taken": 0.2918517589569092
+    },
+    "demo_128": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (8) Back-right",
+        "time_taken": 0.33522748947143555
+    },
+    "demo_129": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": true
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "8",
+            "correct": true
+        },
+        "response": "Answer: (8) Back-right",
+        "time_taken": 0.6589548587799072
+    },
+    "demo_130": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front",
+        "time_taken": 0.7044289112091064
+    },
+    "demo_131": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front;",
+        "time_taken": 0.7311296463012695
+    },
+    "demo_132": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front",
+        "time_taken": 0.7038192749023438
+    },
+    "demo_133": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front",
+        "time_taken": 0.7039248943328857
+    },
+    "demo_134": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front",
+        "time_taken": 0.7036969661712646
+    },
+    "demo_135": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front.",
+        "time_taken": 0.7277069091796875
+    },
+    "demo_136": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (8) Back-right",
+        "time_taken": 0.6687924861907959
+    },
+    "demo_137": {
+        "choices": [
+            {
+                "choice": "8",
+                "correct": true
+            },
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "8",
+            "correct": true
+        },
+        "response": "Answer: (8) Back-right",
+        "time_taken": 0.6682147979736328
+    },
+    "demo_138": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "2",
+            "correct": true
+        },
+        "response": "Answer: (2) person on the right side of the frame",
+        "time_taken": 0.7950179576873779
+    },
+    "demo_139": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": true
+            },
+            {
+                "choice": "1",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (1) the person on the left side of the frame",
+        "time_taken": 0.8147435188293457
+    },
+    "demo_140": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "1",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (1) the person on the left side of the frame",
+        "time_taken": 0.8136417865753174
+    },
+    "demo_141": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "2",
+            "correct": true
+        },
+        "response": "Answer: (2/2",
+        "time_taken": 0.631812334060669
+    },
+    "demo_142": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "2",
+            "correct": true
+        },
+        "response": "Answer: (2/2",
+        "time_taken": 0.630206823348999
+    },
+    "demo_143": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": true
+            },
+            {
+                "choice": "1",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "2",
+            "correct": true
+        },
+        "response": "Answer: (2) The person on the right side of the frame",
+        "time_taken": 0.8182563781738281
+    },
+    "demo_144": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": true
+            },
+            {
+                "choice": "2",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: 1",
+        "time_taken": 0.5856714248657227,
+        "extracted_value": "1"
+    },
+    "demo_145": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (1) Directly to the left",
+        "time_taken": 0.7391154766082764
+    },
+    "demo_146": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": true
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (1) Directly to the left",
+        "time_taken": 0.7386839389801025
+    },
+    "demo_147": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "1",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (6) Front-right",
+        "time_taken": 0.6688175201416016
+    },
+    "demo_148": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (6) Front-right",
+        "time_taken": 0.6688988208770752
+    },
+    "demo_149": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (7) Back-left",
+        "time_taken": 0.6589944362640381
+    },
+    "demo_150": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "1",
+                "correct": true
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (4) Directly behind",
+        "time_taken": 0.6808433532714844
+    },
+    "demo_151": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (4) Directly behind",
+        "time_taken": 0.36604976654052734
+    },
+    "demo_152": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (4) Directly behind",
+        "time_taken": 0.3609623908996582
+    },
+    "demo_153": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (4) Directly behind",
+        "time_taken": 0.3601841926574707
+    },
+    "demo_154": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": true
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "7",
+            "correct": true
+        },
+        "response": "Answer: (8) Back-right",
+        "time_taken": 0.3344414234161377
+    },
+    "demo_155": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": true
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front",
+        "time_taken": 0.38101720809936523
+    },
+    "demo_156": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": true
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "2",
+            "correct": true
+        },
+        "response": "Answer: (1) Directly to the left",
+        "time_taken": 0.406353235244751
+    },
+    "demo_157": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "1",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (1/2)",
+        "time_taken": 0.33548641204833984
+    },
+    "demo_158": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": true
+            },
+            {
+                "choice": "2",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (1/2)",
+        "time_taken": 0.33571696281433105
+    },
+    "demo_159": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "2",
+            "correct": true
+        },
+        "response": "Answer: 1",
+        "time_taken": 0.26903772354125977,
+        "extracted_value": "1"
+    },
+    "demo_160": {
+        "choices": [
+            {
+                "choice": "3",
+                "correct": true
+            },
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front",
+        "time_taken": 0.3878767490386963
+    },
+    "demo_161": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (7) Back-left",
+        "time_taken": 0.34380245208740234
+    },
+    "demo_162": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front",
+        "time_taken": 0.38597846031188965
+    },
+    "demo_163": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": true
+            },
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "2",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front",
+        "time_taken": 0.38488245010375977
+    },
+    "demo_164": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front",
+        "time_taken": 0.3881058692932129
+    },
+    "demo_165": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "2",
+            "correct": true
+        },
+        "response": "Answer: 1",
+        "time_taken": 0.2695810794830322,
+        "extracted_value": "1"
+    },
+    "demo_166": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": true
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front",
+        "time_taken": 0.3897678852081299
+    },
+    "demo_167": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": true
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front",
+        "time_taken": 0.38491106033325195
+    },
+    "demo_168": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "1",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (1/2/...)",
+        "time_taken": 0.36119747161865234
+    },
+    "demo_169": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": true
+            },
+            {
+                "choice": "1",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "2",
+            "correct": true
+        },
+        "response": "Answer: 1",
+        "time_taken": 0.2682971954345703,
+        "extracted_value": "1"
+    },
+    "demo_170": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "[2/4]",
+        "time_taken": 0.293842077255249
+    },
+    "demo_171": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (4) Directly behind",
+        "time_taken": 0.3636040687561035
+    },
+    "demo_172": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": true
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front",
+        "time_taken": 0.7235252857208252
+    },
+    "demo_173": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "(2) Directly to the right",
+        "time_taken": 0.6925482749938965
+    },
+    "demo_174": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": true
+            },
+            {
+                "choice": "1",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "2",
+            "correct": true
+        },
+        "response": "Answer: (2/2",
+        "time_taken": 0.633411169052124
+    },
+    "demo_175": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": true
+            },
+            {
+                "choice": "2",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (1)",
+        "time_taken": 0.6089763641357422
+    },
+    "demo_176": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": true
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front",
+        "time_taken": 0.7146446704864502
+    },
+    "demo_177": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": true
+            },
+            {
+                "choice": "7",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "8",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front",
+        "time_taken": 0.7043931484222412
+    },
+    "demo_178": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "1",
+                "correct": true
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (1) Directly to the left",
+        "time_taken": 0.7274808883666992
+    },
+    "demo_179": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front",
+        "time_taken": 0.7048332691192627
+    },
+    "demo_180": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (4) Directly behind",
+        "time_taken": 0.3614051342010498
+    },
+    "demo_181": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": true
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "6",
+            "correct": true
+        },
+        "response": "Answer: (4) Directly behind",
+        "time_taken": 0.35975003242492676
+    },
+    "demo_182": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (4) Directly behind",
+        "time_taken": 0.3613545894622803
+    },
+    "demo_183": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front",
+        "time_taken": 0.38480043411254883
+    },
+    "demo_184": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (4) Directly behind",
+        "time_taken": 0.3577864170074463
+    },
+    "demo_185": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (4) Directly behind",
+        "time_taken": 0.36019372940063477
+    },
+    "demo_186": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": true
+            },
+            {
+                "choice": "7",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "8",
+            "correct": true
+        },
+        "response": "Answer: (4) Directly behind",
+        "time_taken": 0.3643014430999756
+    },
+    "demo_187": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "1",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (1) Directly to the left",
+        "time_taken": 0.4112582206726074
+    },
+    "demo_188": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": true
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "7",
+            "correct": true
+        },
+        "response": "Answer: (1) Directly to the left",
+        "time_taken": 0.40806078910827637
+    },
+    "demo_189": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": true
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "8",
+            "correct": true
+        },
+        "response": "Answer: (4) Directly behind",
+        "time_taken": 0.3613121509552002
+    },
+    "demo_190": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (6) Front-right",
+        "time_taken": 0.34087443351745605
+    },
+    "demo_191": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (2) Directly to the right",
+        "time_taken": 0.4088623523712158
+    },
+    "demo_192": {
+        "choices": [
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "1",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (2/2",
+        "time_taken": 0.3143882751464844
+    },
+    "demo_193": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": true
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "5",
+            "correct": true
+        },
+        "response": "Answer: (8) Back-right",
+        "time_taken": 0.34314680099487305
+    },
+    "demo_194": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": true
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "7",
+            "correct": true
+        },
+        "response": "Answer: (8) Back-right",
+        "time_taken": 0.3380601406097412
+    },
+    "demo_195": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (3) Directly in front",
+        "time_taken": 0.3831298351287842
+    },
+    "demo_196": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": false
+            },
+            {
+                "choice": "4",
+                "correct": false
+            },
+            {
+                "choice": "5",
+                "correct": false
+            },
+            {
+                "choice": "6",
+                "correct": false
+            },
+            {
+                "choice": "3",
+                "correct": true
+            },
+            {
+                "choice": "7",
+                "correct": false
+            },
+            {
+                "choice": "8",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "3",
+            "correct": true
+        },
+        "response": "Answer: (1) Directly to the left",
+        "time_taken": 0.4065437316894531
+    },
+    "demo_197": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": true
+            },
+            {
+                "choice": "2",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (1/2)",
+        "time_taken": 0.3382699489593506
+    },
+    "demo_198": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": true
+            },
+            {
+                "choice": "2",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "1",
+            "correct": true
+        },
+        "response": "Answer: (2) the robot's gripper in the frame.",
+        "time_taken": 0.49782729148864746
+    },
+    "demo_199": {
+        "choices": [
+            {
+                "choice": "1",
+                "correct": false
+            },
+            {
+                "choice": "2",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "2",
+            "correct": true
+        },
+        "response": "Answer: 2",
+        "time_taken": 0.2681138515472412,
+        "extracted_value": "2"
+    },
+    "summary": "Total correct count: 4,\n total count: 200, \n accuracy: 0.02, \n time taken: 122.93331718444824, \n average time: 0.6146665859222412 \n"
+}
