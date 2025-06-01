@@ -1,0 +1,5403 @@
+{
+    "demo_0": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 2.347264051437378,
+        "extracted_value": "green"
+    },
+    "demo_1": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.922672986984253,
+        "extracted_value": "green"
+    },
+    "demo_2": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 2.781018018722534,
+        "extracted_value": "green"
+    },
+    "demo_3": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.2135789394378662,
+        "extracted_value": "green"
+    },
+    "demo_4": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.7089736461639404,
+        "extracted_value": "green"
+    },
+    "demo_5": {
+        "choices": [
+            {
+                "choice": "yellow",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.4718639850616455,
+        "extracted_value": "green"
+    },
+    "demo_6": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.7041962146759033,
+        "extracted_value": "yellow"
+    },
+    "demo_7": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: blue",
+        "time_taken": 1.4318089485168457,
+        "extracted_value": "blue"
+    },
+    "demo_8": {
+        "choices": [
+            {
+                "choice": "yellow",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.2246551513671875,
+        "extracted_value": "green"
+    },
+    "demo_9": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: red",
+        "time_taken": 1.3257529735565186,
+        "extracted_value": "red"
+    },
+    "demo_10": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.8016209602355957,
+        "extracted_value": "green"
+    },
+    "demo_11": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": true
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.674010992050171,
+        "extracted_value": "yellow"
+    },
+    "demo_12": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 2.0542478561401367,
+        "extracted_value": "yellow"
+    },
+    "demo_13": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.416050910949707,
+        "extracted_value": "green"
+    },
+    "demo_14": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.9877080917358398,
+        "extracted_value": "green"
+    },
+    "demo_15": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 2.1863081455230713,
+        "extracted_value": "green"
+    },
+    "demo_16": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 3.505424976348877,
+        "extracted_value": "green"
+    },
+    "demo_17": {
+        "choices": [
+            {
+                "choice": "yellow",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 5.25915002822876,
+        "extracted_value": "yellow"
+    },
+    "demo_18": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.7005228996276855,
+        "extracted_value": "green"
+    },
+    "demo_19": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 4.59377908706665,
+        "extracted_value": "green"
+    },
+    "demo_20": {
+        "choices": [
+            {
+                "choice": "yellow",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.5762050151824951,
+        "extracted_value": "green"
+    },
+    "demo_21": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.4989140033721924,
+        "extracted_value": "green"
+    },
+    "demo_22": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.2355408668518066,
+        "extracted_value": "green"
+    },
+    "demo_23": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.4126830101013184,
+        "extracted_value": "yellow"
+    },
+    "demo_24": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": true
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.3278589248657227,
+        "extracted_value": "green"
+    },
+    "demo_25": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.8223321437835693,
+        "extracted_value": "green"
+    },
+    "demo_26": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.4319522380828857,
+        "extracted_value": "green"
+    },
+    "demo_27": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": true
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.3422868251800537,
+        "extracted_value": "green"
+    },
+    "demo_28": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.8475449085235596,
+        "extracted_value": "yellow"
+    },
+    "demo_29": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.338433027267456,
+        "extracted_value": "green"
+    },
+    "demo_30": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.4239280223846436,
+        "extracted_value": "green"
+    },
+    "demo_31": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.3798418045043945,
+        "extracted_value": "green"
+    },
+    "demo_32": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": true
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.4849727153778076,
+        "extracted_value": "yellow"
+    },
+    "demo_33": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.3711769580841064,
+        "extracted_value": "green"
+    },
+    "demo_34": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": true
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.2472131252288818,
+        "extracted_value": "yellow"
+    },
+    "demo_35": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.2811918258666992,
+        "extracted_value": "green"
+    },
+    "demo_36": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.935730218887329,
+        "extracted_value": "green"
+    },
+    "demo_37": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.3450169563293457,
+        "extracted_value": "green"
+    },
+    "demo_38": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.4073569774627686,
+        "extracted_value": "yellow"
+    },
+    "demo_39": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.5482451915740967,
+        "extracted_value": "yellow"
+    },
+    "demo_40": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 2.1892547607421875,
+        "extracted_value": "green"
+    },
+    "demo_41": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.5828678607940674,
+        "extracted_value": "green"
+    },
+    "demo_42": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.4381279945373535,
+        "extracted_value": "yellow"
+    },
+    "demo_43": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.4152798652648926,
+        "extracted_value": "green"
+    },
+    "demo_44": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.4516711235046387,
+        "extracted_value": "green"
+    },
+    "demo_45": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.3800640106201172,
+        "extracted_value": "green"
+    },
+    "demo_46": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.596750020980835,
+        "extracted_value": "green"
+    },
+    "demo_47": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.6175811290740967,
+        "extracted_value": "yellow"
+    },
+    "demo_48": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.4507970809936523,
+        "extracted_value": "green"
+    },
+    "demo_49": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.5474131107330322,
+        "extracted_value": "yellow"
+    },
+    "demo_50": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.3504619598388672,
+        "extracted_value": "green"
+    },
+    "demo_51": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.5708999633789062,
+        "extracted_value": "green"
+    },
+    "demo_52": {
+        "choices": [
+            {
+                "choice": "blue",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.4327049255371094,
+        "extracted_value": "yellow"
+    },
+    "demo_53": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.9412050247192383,
+        "extracted_value": "green"
+    },
+    "demo_54": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.3588249683380127,
+        "extracted_value": "yellow"
+    },
+    "demo_55": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.331531047821045,
+        "extracted_value": "green"
+    },
+    "demo_56": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 2.1142220497131348,
+        "extracted_value": "green"
+    },
+    "demo_57": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.6393229961395264,
+        "extracted_value": "yellow"
+    },
+    "demo_58": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.3014049530029297,
+        "extracted_value": "green"
+    },
+    "demo_59": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 2.2531588077545166,
+        "extracted_value": "yellow"
+    },
+    "demo_60": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.350874900817871,
+        "extracted_value": "yellow"
+    },
+    "demo_61": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.319098711013794,
+        "extracted_value": "yellow"
+    },
+    "demo_62": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.3898379802703857,
+        "extracted_value": "green"
+    },
+    "demo_63": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.5848388671875,
+        "extracted_value": "yellow"
+    },
+    "demo_64": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 2.2508668899536133,
+        "extracted_value": "green"
+    },
+    "demo_65": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.4289989471435547,
+        "extracted_value": "yellow"
+    },
+    "demo_66": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.532977819442749,
+        "extracted_value": "yellow"
+    },
+    "demo_67": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.4484128952026367,
+        "extracted_value": "yellow"
+    },
+    "demo_68": {
+        "choices": [
+            {
+                "choice": "yellow",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 2.0296177864074707,
+        "extracted_value": "green"
+    },
+    "demo_69": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.5327708721160889,
+        "extracted_value": "yellow"
+    },
+    "demo_70": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.2770402431488037,
+        "extracted_value": "yellow"
+    },
+    "demo_71": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 7.97509503364563,
+        "extracted_value": "green"
+    },
+    "demo_72": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.3744471073150635,
+        "extracted_value": "green"
+    },
+    "demo_73": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.4070062637329102,
+        "extracted_value": "green"
+    },
+    "demo_74": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 3.3482868671417236,
+        "extracted_value": "yellow"
+    },
+    "demo_75": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.3811500072479248,
+        "extracted_value": "green"
+    },
+    "demo_76": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.2470362186431885,
+        "extracted_value": "green"
+    },
+    "demo_77": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": true
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.8511500358581543,
+        "extracted_value": "green"
+    },
+    "demo_78": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.5891070365905762,
+        "extracted_value": "yellow"
+    },
+    "demo_79": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.6170377731323242,
+        "extracted_value": "green"
+    },
+    "demo_80": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.4554450511932373,
+        "extracted_value": "green"
+    },
+    "demo_81": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 6.4867870807647705,
+        "extracted_value": "green"
+    },
+    "demo_82": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": true
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.6997137069702148,
+        "extracted_value": "green"
+    },
+    "demo_83": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.3583390712738037,
+        "extracted_value": "yellow"
+    },
+    "demo_84": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.4863100051879883,
+        "extracted_value": "green"
+    },
+    "demo_85": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": true
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.2764248847961426,
+        "extracted_value": "yellow"
+    },
+    "demo_86": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.83781099319458,
+        "extracted_value": "green"
+    },
+    "demo_87": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.3823950290679932,
+        "extracted_value": "green"
+    },
+    "demo_88": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.390056848526001,
+        "extracted_value": "green"
+    },
+    "demo_89": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.7699370384216309,
+        "extracted_value": "green"
+    },
+    "demo_90": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": true
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.3879778385162354,
+        "extracted_value": "green"
+    },
+    "demo_91": {
+        "choices": [
+            {
+                "choice": "yellow",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.3280541896820068,
+        "extracted_value": "green"
+    },
+    "demo_92": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.4398629665374756,
+        "extracted_value": "green"
+    },
+    "demo_93": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: blue",
+        "time_taken": 7.2053749561309814,
+        "extracted_value": "blue"
+    },
+    "demo_94": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.485105276107788,
+        "extracted_value": "green"
+    },
+    "demo_95": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": true
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: blue",
+        "time_taken": 1.4321091175079346,
+        "extracted_value": "blue"
+    },
+    "demo_96": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.327139139175415,
+        "extracted_value": "green"
+    },
+    "demo_97": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.4345622062683105,
+        "extracted_value": "green"
+    },
+    "demo_98": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.5578711032867432,
+        "extracted_value": "green"
+    },
+    "demo_99": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": true
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.9022300243377686,
+        "extracted_value": "yellow"
+    },
+    "demo_100": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.355823040008545,
+        "extracted_value": "yellow"
+    },
+    "demo_101": {
+        "choices": [
+            {
+                "choice": "yellow",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.5744287967681885,
+        "extracted_value": "yellow"
+    },
+    "demo_102": {
+        "choices": [
+            {
+                "choice": "blue",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.4020752906799316,
+        "extracted_value": "green"
+    },
+    "demo_103": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 2.030644178390503,
+        "extracted_value": "green"
+    },
+    "demo_104": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.8294010162353516,
+        "extracted_value": "green"
+    },
+    "demo_105": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.3426220417022705,
+        "extracted_value": "green"
+    },
+    "demo_106": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.3921139240264893,
+        "extracted_value": "green"
+    },
+    "demo_107": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.9763226509094238,
+        "extracted_value": "green"
+    },
+    "demo_108": {
+        "choices": [
+            {
+                "choice": "yellow",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.5867109298706055,
+        "extracted_value": "green"
+    },
+    "demo_109": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.3761498928070068,
+        "extracted_value": "green"
+    },
+    "demo_110": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.2360436916351318,
+        "extracted_value": "yellow"
+    },
+    "demo_111": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.4883041381835938,
+        "extracted_value": "yellow"
+    },
+    "demo_112": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.469271183013916,
+        "extracted_value": "green"
+    },
+    "demo_113": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.4512279033660889,
+        "extracted_value": "green"
+    },
+    "demo_114": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.5141940116882324,
+        "extracted_value": "green"
+    },
+    "demo_115": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": true
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 2.092564105987549,
+        "extracted_value": "green"
+    },
+    "demo_116": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.370253086090088,
+        "extracted_value": "green"
+    },
+    "demo_117": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.307386875152588,
+        "extracted_value": "yellow"
+    },
+    "demo_118": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 2.918515920639038,
+        "extracted_value": "green"
+    },
+    "demo_119": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.3808648586273193,
+        "extracted_value": "green"
+    },
+    "demo_120": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.3251779079437256,
+        "extracted_value": "green"
+    },
+    "demo_121": {
+        "choices": [
+            {
+                "choice": "yellow",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.2813119888305664,
+        "extracted_value": "green"
+    },
+    "demo_122": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.4989397525787354,
+        "extracted_value": "green"
+    },
+    "demo_123": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.4115040302276611,
+        "extracted_value": "yellow"
+    },
+    "demo_124": {
+        "choices": [
+            {
+                "choice": "yellow",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.2688899040222168,
+        "extracted_value": "green"
+    },
+    "demo_125": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 2.228346109390259,
+        "extracted_value": "green"
+    },
+    "demo_126": {
+        "choices": [
+            {
+                "choice": "yellow",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.5305652618408203,
+        "extracted_value": "yellow"
+    },
+    "demo_127": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.5487751960754395,
+        "extracted_value": "green"
+    },
+    "demo_128": {
+        "choices": [
+            {
+                "choice": "blue",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.4153189659118652,
+        "extracted_value": "yellow"
+    },
+    "demo_129": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.4382660388946533,
+        "extracted_value": "green"
+    },
+    "demo_130": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.7593879699707031,
+        "extracted_value": "green"
+    },
+    "demo_131": {
+        "choices": [
+            {
+                "choice": "blue",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.327242136001587,
+        "extracted_value": "yellow"
+    },
+    "demo_132": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.5370402336120605,
+        "extracted_value": "yellow"
+    },
+    "demo_133": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 2.966890811920166,
+        "extracted_value": "green"
+    },
+    "demo_134": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.382505178451538,
+        "extracted_value": "yellow"
+    },
+    "demo_135": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.4285590648651123,
+        "extracted_value": "green"
+    },
+    "demo_136": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.2887589931488037,
+        "extracted_value": "green"
+    },
+    "demo_137": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.3740510940551758,
+        "extracted_value": "yellow"
+    },
+    "demo_138": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.3155908584594727,
+        "extracted_value": "green"
+    },
+    "demo_139": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.231863021850586,
+        "extracted_value": "green"
+    },
+    "demo_140": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": true
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.9459917545318604,
+        "extracted_value": "green"
+    },
+    "demo_141": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.3402271270751953,
+        "extracted_value": "yellow"
+    },
+    "demo_142": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.5238683223724365,
+        "extracted_value": "green"
+    },
+    "demo_143": {
+        "choices": [
+            {
+                "choice": "yellow",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.2335751056671143,
+        "extracted_value": "green"
+    },
+    "demo_144": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.1884617805480957,
+        "extracted_value": "green"
+    },
+    "demo_145": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.463594913482666,
+        "extracted_value": "yellow"
+    },
+    "demo_146": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.4824881553649902,
+        "extracted_value": "green"
+    },
+    "demo_147": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.2876899242401123,
+        "extracted_value": "yellow"
+    },
+    "demo_148": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.2584378719329834,
+        "extracted_value": "green"
+    },
+    "demo_149": {
+        "choices": [
+            {
+                "choice": "yellow",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.2831017971038818,
+        "extracted_value": "green"
+    },
+    "demo_150": {
+        "choices": [
+            {
+                "choice": "blue",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.3250129222869873,
+        "extracted_value": "green"
+    },
+    "demo_151": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.3247318267822266,
+        "extracted_value": "green"
+    },
+    "demo_152": {
+        "choices": [
+            {
+                "choice": "yellow",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 2.6637871265411377,
+        "extracted_value": "green"
+    },
+    "demo_153": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.281235933303833,
+        "extracted_value": "yellow"
+    },
+    "demo_154": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.376065969467163,
+        "extracted_value": "yellow"
+    },
+    "demo_155": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.5301182270050049,
+        "extracted_value": "green"
+    },
+    "demo_156": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.4381608963012695,
+        "extracted_value": "green"
+    },
+    "demo_157": {
+        "choices": [
+            {
+                "choice": "yellow",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.42765212059021,
+        "extracted_value": "green"
+    },
+    "demo_158": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": true
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.4532909393310547,
+        "extracted_value": "yellow"
+    },
+    "demo_159": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.249722957611084,
+        "extracted_value": "green"
+    },
+    "demo_160": {
+        "choices": [
+            {
+                "choice": "yellow",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.402599811553955,
+        "extracted_value": "green"
+    },
+    "demo_161": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.3314719200134277,
+        "extracted_value": "green"
+    },
+    "demo_162": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": true
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.9000728130340576,
+        "extracted_value": "yellow"
+    },
+    "demo_163": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.4379119873046875,
+        "extracted_value": "green"
+    },
+    "demo_164": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.6298329830169678,
+        "extracted_value": "green"
+    },
+    "demo_165": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.4164178371429443,
+        "extracted_value": "green"
+    },
+    "demo_166": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.397887945175171,
+        "extracted_value": "green"
+    },
+    "demo_167": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 2.2832536697387695,
+        "extracted_value": "yellow"
+    },
+    "demo_168": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.327052116394043,
+        "extracted_value": "green"
+    },
+    "demo_169": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.2696352005004883,
+        "extracted_value": "green"
+    },
+    "demo_170": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.2180039882659912,
+        "extracted_value": "yellow"
+    },
+    "demo_171": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.531977891921997,
+        "extracted_value": "green"
+    },
+    "demo_172": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.6663541793823242,
+        "extracted_value": "green"
+    },
+    "demo_173": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": true
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.5031349658966064,
+        "extracted_value": "yellow"
+    },
+    "demo_174": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.4209768772125244,
+        "extracted_value": "green"
+    },
+    "demo_175": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.2688360214233398,
+        "extracted_value": "green"
+    },
+    "demo_176": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 2.422363758087158,
+        "extracted_value": "green"
+    },
+    "demo_177": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.2208251953125,
+        "extracted_value": "green"
+    },
+    "demo_178": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.3204400539398193,
+        "extracted_value": "yellow"
+    },
+    "demo_179": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.6287760734558105,
+        "extracted_value": "green"
+    },
+    "demo_180": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.3168740272521973,
+        "extracted_value": "green"
+    },
+    "demo_181": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 3.5168960094451904,
+        "extracted_value": "yellow"
+    },
+    "demo_182": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.3203456401824951,
+        "extracted_value": "green"
+    },
+    "demo_183": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.2540838718414307,
+        "extracted_value": "green"
+    },
+    "demo_184": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.2755401134490967,
+        "extracted_value": "green"
+    },
+    "demo_185": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.5554780960083008,
+        "extracted_value": "green"
+    },
+    "demo_186": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.4317619800567627,
+        "extracted_value": "green"
+    },
+    "demo_187": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.6465630531311035,
+        "extracted_value": "green"
+    },
+    "demo_188": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": true
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "blue",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.5217680931091309,
+        "extracted_value": "yellow"
+    },
+    "demo_189": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.307530164718628,
+        "extracted_value": "green"
+    },
+    "demo_190": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.2542240619659424,
+        "extracted_value": "green"
+    },
+    "demo_191": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.8358049392700195,
+        "extracted_value": "green"
+    },
+    "demo_192": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 13.86379075050354,
+        "extracted_value": "green"
+    },
+    "demo_193": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": true
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.4898250102996826,
+        "extracted_value": "green"
+    },
+    "demo_194": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.4688358306884766,
+        "extracted_value": "green"
+    },
+    "demo_195": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.3928508758544922,
+        "extracted_value": "yellow"
+    },
+    "demo_196": {
+        "choices": [
+            {
+                "choice": "yellow",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.3072481155395508,
+        "extracted_value": "green"
+    },
+    "demo_197": {
+        "choices": [
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "green",
+            "correct": true
+        },
+        "response": "Answer: green",
+        "time_taken": 1.4928100109100342,
+        "extracted_value": "green"
+    },
+    "demo_198": {
+        "choices": [
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "red",
+                "correct": true
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            },
+            {
+                "choice": "yellow",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "red",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.9560959339141846,
+        "extracted_value": "yellow"
+    },
+    "demo_199": {
+        "choices": [
+            {
+                "choice": "yellow",
+                "correct": true
+            },
+            {
+                "choice": "red",
+                "correct": false
+            },
+            {
+                "choice": "green",
+                "correct": false
+            },
+            {
+                "choice": "blue",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "yellow",
+            "correct": true
+        },
+        "response": "Answer: yellow",
+        "time_taken": 1.4813401699066162,
+        "extracted_value": "yellow"
+    },
+    "summary": "Total correct count: 53,\n total count: 200, \n accuracy: 0.265, \n time taken: 350.1303458213806, \n average time: 1.750651729106903 \n"
+}

@@ -1,0 +1,5403 @@
+{
+    "demo_0": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 1.9656808376312256,
+        "extracted_value": "C"
+    },
+    "demo_1": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 1.6754932403564453,
+        "extracted_value": "D"
+    },
+    "demo_2": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 1.8409838676452637,
+        "extracted_value": "A"
+    },
+    "demo_3": {
+        "choices": [
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 2.314055919647217,
+        "extracted_value": "C"
+    },
+    "demo_4": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 2.2232210636138916,
+        "extracted_value": "D"
+    },
+    "demo_5": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 2.138051986694336,
+        "extracted_value": "D"
+    },
+    "demo_6": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 2.2124459743499756,
+        "extracted_value": "B"
+    },
+    "demo_7": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 2.0988998413085938,
+        "extracted_value": "D"
+    },
+    "demo_8": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B\n",
+        "time_taken": 2.1701390743255615,
+        "extracted_value": "B"
+    },
+    "demo_9": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 3.951478958129883,
+        "extracted_value": "B"
+    },
+    "demo_10": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 2.8716697692871094,
+        "extracted_value": "B"
+    },
+    "demo_11": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 2.2276408672332764,
+        "extracted_value": "A"
+    },
+    "demo_12": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 2.3231430053710938,
+        "extracted_value": "C"
+    },
+    "demo_13": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 2.006861925125122,
+        "extracted_value": "A"
+    },
+    "demo_14": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 2.182698965072632,
+        "extracted_value": "A"
+    },
+    "demo_15": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 2.0671119689941406,
+        "extracted_value": "C"
+    },
+    "demo_16": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 1.9991891384124756,
+        "extracted_value": "C"
+    },
+    "demo_17": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 2.796365976333618,
+        "extracted_value": "B"
+    },
+    "demo_18": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 2.6492879390716553,
+        "extracted_value": "B"
+    },
+    "demo_19": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 2.20786190032959,
+        "extracted_value": "C"
+    },
+    "demo_20": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 4.1892759799957275,
+        "extracted_value": "C"
+    },
+    "demo_21": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 2.3410770893096924,
+        "extracted_value": "D"
+    },
+    "demo_22": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 2.133650779724121,
+        "extracted_value": "C"
+    },
+    "demo_23": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 4.042910099029541,
+        "extracted_value": "A"
+    },
+    "demo_24": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 2.0859251022338867,
+        "extracted_value": "B"
+    },
+    "demo_25": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 2.617138147354126,
+        "extracted_value": "B"
+    },
+    "demo_26": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 2.965533971786499,
+        "extracted_value": "C"
+    },
+    "demo_27": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 2.1467080116271973,
+        "extracted_value": "B"
+    },
+    "demo_28": {
+        "choices": [
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 2.9267640113830566,
+        "extracted_value": "A"
+    },
+    "demo_29": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 4.199174165725708,
+        "extracted_value": "D"
+    },
+    "demo_30": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 1.7912929058074951,
+        "extracted_value": "C"
+    },
+    "demo_31": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 4.1970601081848145,
+        "extracted_value": "B"
+    },
+    "demo_32": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 2.169951915740967,
+        "extracted_value": "D"
+    },
+    "demo_33": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 1.973006010055542,
+        "extracted_value": "C"
+    },
+    "demo_34": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 2.207289934158325,
+        "extracted_value": "B"
+    },
+    "demo_35": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 2.586406946182251,
+        "extracted_value": "C"
+    },
+    "demo_36": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 2.306765079498291,
+        "extracted_value": "B"
+    },
+    "demo_37": {
+        "choices": [
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 2.0436930656433105,
+        "extracted_value": "C"
+    },
+    "demo_38": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 2.294844150543213,
+        "extracted_value": "C"
+    },
+    "demo_39": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 2.183410882949829,
+        "extracted_value": "D"
+    },
+    "demo_40": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 1.8221487998962402,
+        "extracted_value": "A"
+    },
+    "demo_41": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 2.9558558464050293,
+        "extracted_value": "B"
+    },
+    "demo_42": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 1.8752670288085938,
+        "extracted_value": "A"
+    },
+    "demo_43": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 1.8984158039093018,
+        "extracted_value": "D"
+    },
+    "demo_44": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 1.6876018047332764,
+        "extracted_value": "A"
+    },
+    "demo_45": {
+        "choices": [
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 2.06003999710083,
+        "extracted_value": "D"
+    },
+    "demo_46": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 2.1119589805603027,
+        "extracted_value": "A"
+    },
+    "demo_47": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 1.7250597476959229,
+        "extracted_value": "B"
+    },
+    "demo_48": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 1.866253137588501,
+        "extracted_value": "D"
+    },
+    "demo_49": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 1.7192962169647217,
+        "extracted_value": "B"
+    },
+    "demo_50": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 1.8469288349151611,
+        "extracted_value": "D"
+    },
+    "demo_51": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 1.9015240669250488,
+        "extracted_value": "B"
+    },
+    "demo_52": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 1.8603520393371582,
+        "extracted_value": "D"
+    },
+    "demo_53": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 1.8428311347961426,
+        "extracted_value": "B"
+    },
+    "demo_54": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 2.5391080379486084,
+        "extracted_value": "A"
+    },
+    "demo_55": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 1.8597028255462646,
+        "extracted_value": "C"
+    },
+    "demo_56": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 1.8656508922576904,
+        "extracted_value": "D"
+    },
+    "demo_57": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 1.897670030593872,
+        "extracted_value": "A"
+    },
+    "demo_58": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 1.8714778423309326,
+        "extracted_value": "B"
+    },
+    "demo_59": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 1.8708348274230957,
+        "extracted_value": "B"
+    },
+    "demo_60": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 2.7518091201782227,
+        "extracted_value": "A"
+    },
+    "demo_61": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 1.8307209014892578,
+        "extracted_value": "A"
+    },
+    "demo_62": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 1.7622959613800049,
+        "extracted_value": "C"
+    },
+    "demo_63": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 1.7410149574279785,
+        "extracted_value": "B"
+    },
+    "demo_64": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 1.866523027420044,
+        "extracted_value": "C"
+    },
+    "demo_65": {
+        "choices": [
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 1.9871461391448975,
+        "extracted_value": "C"
+    },
+    "demo_66": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 1.702744960784912,
+        "extracted_value": "A"
+    },
+    "demo_67": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 1.954453706741333,
+        "extracted_value": "B"
+    },
+    "demo_68": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 1.8327558040618896,
+        "extracted_value": "C"
+    },
+    "demo_69": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 1.9495701789855957,
+        "extracted_value": "C"
+    },
+    "demo_70": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "None of the individuals in the second image match the person in the first image.  Therefore, the person from the first image is not present in the second image.\n\nHowever, if I *must* choose one of the options A, B, C, or D, I will choose D as it is the only one sitting at a desk with books and a laptop, like the person in the first picture.  The person in D is also wearing a hooded garment. This makes D the closest visual match, despite clear differences in appearance.\n\n\nAnswer: D\n",
+        "time_taken": 4.034679889678955,
+        "extracted_value": "D"
+    },
+    "demo_71": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 1.6866960525512695,
+        "extracted_value": "B"
+    },
+    "demo_72": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 2.3280320167541504,
+        "extracted_value": "D"
+    },
+    "demo_73": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 3.8301141262054443,
+        "extracted_value": "D"
+    },
+    "demo_74": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 1.822356939315796,
+        "extracted_value": "B"
+    },
+    "demo_75": {
+        "choices": [
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 2.2433557510375977,
+        "extracted_value": "C"
+    },
+    "demo_76": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A\n",
+        "time_taken": 1.9299051761627197,
+        "extracted_value": "A"
+    },
+    "demo_77": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 1.6792092323303223,
+        "extracted_value": "D"
+    },
+    "demo_78": {
+        "choices": [
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 2.0307140350341797,
+        "extracted_value": "A"
+    },
+    "demo_79": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 1.8793389797210693,
+        "extracted_value": "C"
+    },
+    "demo_80": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 1.6577558517456055,
+        "extracted_value": "B"
+    },
+    "demo_81": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 2.009036064147949,
+        "extracted_value": "D"
+    },
+    "demo_82": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 3.7313168048858643,
+        "extracted_value": "D"
+    },
+    "demo_83": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 3.1722021102905273,
+        "extracted_value": "A"
+    },
+    "demo_84": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 1.9057040214538574,
+        "extracted_value": "B"
+    },
+    "demo_85": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 1.8589930534362793,
+        "extracted_value": "A"
+    },
+    "demo_86": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 2.0789968967437744,
+        "extracted_value": "A"
+    },
+    "demo_87": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 2.0819997787475586,
+        "extracted_value": "C"
+    },
+    "demo_88": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 3.7732348442077637,
+        "extracted_value": "B"
+    },
+    "demo_89": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 2.8820648193359375,
+        "extracted_value": "D"
+    },
+    "demo_90": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 3.6855080127716064,
+        "extracted_value": "A"
+    },
+    "demo_91": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 2.0312318801879883,
+        "extracted_value": "B"
+    },
+    "demo_92": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 2.092120885848999,
+        "extracted_value": "A"
+    },
+    "demo_93": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 2.0354278087615967,
+        "extracted_value": "B"
+    },
+    "demo_94": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 3.7606887817382812,
+        "extracted_value": "D"
+    },
+    "demo_95": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 2.89502215385437,
+        "extracted_value": "D"
+    },
+    "demo_96": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 3.194453001022339,
+        "extracted_value": "C"
+    },
+    "demo_97": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 3.7100462913513184,
+        "extracted_value": "C"
+    },
+    "demo_98": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 3.685831069946289,
+        "extracted_value": "A"
+    },
+    "demo_99": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 4.031572103500366,
+        "extracted_value": "B"
+    },
+    "demo_100": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 3.4140748977661133,
+        "extracted_value": "B"
+    },
+    "demo_101": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 1.9864771366119385,
+        "extracted_value": "A"
+    },
+    "demo_102": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 1.8782527446746826,
+        "extracted_value": "B"
+    },
+    "demo_103": {
+        "choices": [
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 2.9970080852508545,
+        "extracted_value": "D"
+    },
+    "demo_104": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 1.9083819389343262,
+        "extracted_value": "A"
+    },
+    "demo_105": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 1.95070219039917,
+        "extracted_value": "A"
+    },
+    "demo_106": {
+        "choices": [
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 1.9699692726135254,
+        "extracted_value": "C"
+    },
+    "demo_107": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 1.7675840854644775,
+        "extracted_value": "D"
+    },
+    "demo_108": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 1.8965950012207031,
+        "extracted_value": "A"
+    },
+    "demo_109": {
+        "choices": [
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 1.8365817070007324,
+        "extracted_value": "C"
+    },
+    "demo_110": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 1.8759007453918457,
+        "extracted_value": "B"
+    },
+    "demo_111": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 1.7508490085601807,
+        "extracted_value": "B"
+    },
+    "demo_112": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 1.8604538440704346,
+        "extracted_value": "A"
+    },
+    "demo_113": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 1.996035099029541,
+        "extracted_value": "A"
+    },
+    "demo_114": {
+        "choices": [
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 1.8326499462127686,
+        "extracted_value": "D"
+    },
+    "demo_115": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 1.7657053470611572,
+        "extracted_value": "A"
+    },
+    "demo_116": {
+        "choices": [
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 1.8102059364318848,
+        "extracted_value": "D"
+    },
+    "demo_117": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 1.6514689922332764,
+        "extracted_value": "C"
+    },
+    "demo_118": {
+        "choices": [
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 1.9974379539489746,
+        "extracted_value": "C"
+    },
+    "demo_119": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 3.652873992919922,
+        "extracted_value": "A"
+    },
+    "demo_120": {
+        "choices": [
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 2.1244611740112305,
+        "extracted_value": "C"
+    },
+    "demo_121": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 2.1912546157836914,
+        "extracted_value": "C"
+    },
+    "demo_122": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 2.4244141578674316,
+        "extracted_value": "C"
+    },
+    "demo_123": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 2.4389119148254395,
+        "extracted_value": "A"
+    },
+    "demo_124": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 4.31266188621521,
+        "extracted_value": "B"
+    },
+    "demo_125": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 3.9668681621551514,
+        "extracted_value": "C"
+    },
+    "demo_126": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 2.853538751602173,
+        "extracted_value": "B"
+    },
+    "demo_127": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 2.0317320823669434,
+        "extracted_value": "C"
+    },
+    "demo_128": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 2.298048973083496,
+        "extracted_value": "D"
+    },
+    "demo_129": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 2.3535311222076416,
+        "extracted_value": "B"
+    },
+    "demo_130": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 2.4097111225128174,
+        "extracted_value": "C"
+    },
+    "demo_131": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 2.4128198623657227,
+        "extracted_value": "C"
+    },
+    "demo_132": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 2.7228338718414307,
+        "extracted_value": "B"
+    },
+    "demo_133": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 2.776921272277832,
+        "extracted_value": "C"
+    },
+    "demo_134": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 3.3631601333618164,
+        "extracted_value": "A"
+    },
+    "demo_135": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 2.052028179168701,
+        "extracted_value": "B"
+    },
+    "demo_136": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 2.358644962310791,
+        "extracted_value": "A"
+    },
+    "demo_137": {
+        "choices": [
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 2.0125532150268555,
+        "extracted_value": "D"
+    },
+    "demo_138": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 2.5564451217651367,
+        "extracted_value": "B"
+    },
+    "demo_139": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 2.125720262527466,
+        "extracted_value": "D"
+    },
+    "demo_140": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 2.408311605453491,
+        "extracted_value": "B"
+    },
+    "demo_141": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 2.468813180923462,
+        "extracted_value": "C"
+    },
+    "demo_142": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 2.6555769443511963,
+        "extracted_value": "A"
+    },
+    "demo_143": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 2.517490863800049,
+        "extracted_value": "A"
+    },
+    "demo_144": {
+        "choices": [
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 2.38568115234375,
+        "extracted_value": "B"
+    },
+    "demo_145": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 2.7158799171447754,
+        "extracted_value": "D"
+    },
+    "demo_146": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 2.381641149520874,
+        "extracted_value": "A"
+    },
+    "demo_147": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 2.3381640911102295,
+        "extracted_value": "B"
+    },
+    "demo_148": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 2.5567619800567627,
+        "extracted_value": "D"
+    },
+    "demo_149": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 2.432574987411499,
+        "extracted_value": "A"
+    },
+    "demo_150": {
+        "choices": [
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 3.6944479942321777,
+        "extracted_value": "B"
+    },
+    "demo_151": {
+        "choices": [
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 1.7292039394378662,
+        "extracted_value": "C"
+    },
+    "demo_152": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 2.959184169769287,
+        "extracted_value": "C"
+    },
+    "demo_153": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 1.878943920135498,
+        "extracted_value": "C"
+    },
+    "demo_154": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 2.281337261199951,
+        "extracted_value": "B"
+    },
+    "demo_155": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 2.2512612342834473,
+        "extracted_value": "C"
+    },
+    "demo_156": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 2.208397150039673,
+        "extracted_value": "D"
+    },
+    "demo_157": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 2.339292049407959,
+        "extracted_value": "A"
+    },
+    "demo_158": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 2.2656912803649902,
+        "extracted_value": "B"
+    },
+    "demo_159": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 2.158635139465332,
+        "extracted_value": "A"
+    },
+    "demo_160": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 2.415134906768799,
+        "extracted_value": "B"
+    },
+    "demo_161": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 2.1243479251861572,
+        "extracted_value": "A"
+    },
+    "demo_162": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 2.2171099185943604,
+        "extracted_value": "B"
+    },
+    "demo_163": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 1.9022481441497803,
+        "extracted_value": "D"
+    },
+    "demo_164": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 2.471339702606201,
+        "extracted_value": "A"
+    },
+    "demo_165": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 1.967360019683838,
+        "extracted_value": "D"
+    },
+    "demo_166": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 2.055556058883667,
+        "extracted_value": "D"
+    },
+    "demo_167": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 2.2006020545959473,
+        "extracted_value": "C"
+    },
+    "demo_168": {
+        "choices": [
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 2.543717861175537,
+        "extracted_value": "A"
+    },
+    "demo_169": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 1.9492900371551514,
+        "extracted_value": "A"
+    },
+    "demo_170": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 2.203329086303711,
+        "extracted_value": "A"
+    },
+    "demo_171": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 2.349323034286499,
+        "extracted_value": "D"
+    },
+    "demo_172": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 1.6507830619812012,
+        "extracted_value": "C"
+    },
+    "demo_173": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 1.9534406661987305,
+        "extracted_value": "C"
+    },
+    "demo_174": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 2.144352912902832,
+        "extracted_value": "B"
+    },
+    "demo_175": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 2.1422228813171387,
+        "extracted_value": "A"
+    },
+    "demo_176": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 1.751573085784912,
+        "extracted_value": "B"
+    },
+    "demo_177": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D\n",
+        "time_taken": 2.4517581462860107,
+        "extracted_value": "D"
+    },
+    "demo_178": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 1.84297513961792,
+        "extracted_value": "B"
+    },
+    "demo_179": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 1.653111219406128,
+        "extracted_value": "C"
+    },
+    "demo_180": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 2.1858952045440674,
+        "extracted_value": "A"
+    },
+    "demo_181": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 1.7690739631652832,
+        "extracted_value": "A"
+    },
+    "demo_182": {
+        "choices": [
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 2.2969329357147217,
+        "extracted_value": "C"
+    },
+    "demo_183": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 2.287724256515503,
+        "extracted_value": "A"
+    },
+    "demo_184": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 2.2410130500793457,
+        "extracted_value": "C"
+    },
+    "demo_185": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 2.1747188568115234,
+        "extracted_value": "A"
+    },
+    "demo_186": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 4.299107074737549,
+        "extracted_value": "B"
+    },
+    "demo_187": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 1.9947078227996826,
+        "extracted_value": "C"
+    },
+    "demo_188": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 2.156071901321411,
+        "extracted_value": "A"
+    },
+    "demo_189": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 1.7790758609771729,
+        "extracted_value": "A"
+    },
+    "demo_190": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 2.0452349185943604,
+        "extracted_value": "C"
+    },
+    "demo_191": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 1.8900811672210693,
+        "extracted_value": "B"
+    },
+    "demo_192": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 4.082150936126709,
+        "extracted_value": "A"
+    },
+    "demo_193": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 2.01236891746521,
+        "extracted_value": "C"
+    },
+    "demo_194": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 2.164494752883911,
+        "extracted_value": "D"
+    },
+    "demo_195": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 2.2406198978424072,
+        "extracted_value": "C"
+    },
+    "demo_196": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 2.0951762199401855,
+        "extracted_value": "B"
+    },
+    "demo_197": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 1.9613261222839355,
+        "extracted_value": "B"
+    },
+    "demo_198": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 4.055472135543823,
+        "extracted_value": "B"
+    },
+    "demo_199": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 2.098531723022461,
+        "extracted_value": "B"
+    },
+    "summary": "Total correct count: 138,\n total count: 200, \n accuracy: 0.69, \n time taken: 469.5508940219879, \n average time: 2.3477544701099395 \n"
+}

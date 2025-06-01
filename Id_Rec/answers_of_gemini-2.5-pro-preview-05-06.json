@@ -1,0 +1,5403 @@
+{
+    "demo_0": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 8.755430936813354,
+        "extracted_value": "C"
+    },
+    "demo_1": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 8.519582033157349,
+        "extracted_value": "D"
+    },
+    "demo_2": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 31.96561098098755,
+        "extracted_value": "A"
+    },
+    "demo_3": {
+        "choices": [
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 6.883155107498169,
+        "extracted_value": "C"
+    },
+    "demo_4": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 15.174880981445312,
+        "extracted_value": "D"
+    },
+    "demo_5": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 12.886616945266724,
+        "extracted_value": "C"
+    },
+    "demo_6": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 7.169233083724976,
+        "extracted_value": "B"
+    },
+    "demo_7": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 12.542282819747925,
+        "extracted_value": "A"
+    },
+    "demo_8": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 10.055567264556885,
+        "extracted_value": "B"
+    },
+    "demo_9": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 52.09903883934021,
+        "extracted_value": "B"
+    },
+    "demo_10": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 39.0881290435791,
+        "extracted_value": "A"
+    },
+    "demo_11": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 28.44120693206787,
+        "extracted_value": "B"
+    },
+    "demo_12": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 18.45277500152588,
+        "extracted_value": "B"
+    },
+    "demo_13": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "The person in the first image is a young woman with medium-length brown hair and distinct bangs. She appears to be of East Asian descent.\n\nLet's analyze the four photos in the second image:\n-   **Photo A:** Shows a person from the side/back, looking at a computer screen. This person is wearing glasses and has brownish hair that appears to be around shoulder length or longer. The gender appears to be female. The overall setting (desk, computer) is plausible. While the bangs are not clearly visible from this angle and glasses are worn (unlike the portrait), this is the most plausible candidate by elimination if others are clearly different.\n-   **Photo B:** Shows a young man with short brown hair. This person is clearly different from the woman in the portrait (different gender, facial features, hairstyle).\n-   **Photo C:** Shows a person with dark, curly/wavy hair, wearing glasses, working at a desk. This person appears to be male. The hairstyle and overall appearance are significantly different from the woman in the portrait.\n-   **Photo D:** Shows a person with short, dark, curly hair, wearing glasses and earbuds, looking at a computer from the side. This person also appears to be male. The hairstyle and profile are different from the woman in the portrait.\n\nBased on the comparison, Photos B, C, and D depict individuals who are clearly different from the person in the portrait, primarily due to differences in gender and distinct facial features/hairstyles. Photo A depicts a female with similar hair color and length, in a plausible context. Although there are differences (glasses, angle affecting visibility of bangs), by elimination of the other options, Photo A is the only potential match. Assuming one of the photos A, B, C, or D must be the correct one, A is the only viable option.\n\nAnswer: A",
+        "time_taken": 41.590039014816284,
+        "extracted_value": "A"
+    },
+    "demo_14": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 8.393272876739502,
+        "extracted_value": "D"
+    },
+    "demo_15": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 12.354375839233398,
+        "extracted_value": "B"
+    },
+    "demo_16": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 6.79695725440979,
+        "extracted_value": "C"
+    },
+    "demo_17": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 11.800343036651611,
+        "extracted_value": "B"
+    },
+    "demo_18": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 7.5552849769592285,
+        "extracted_value": "B"
+    },
+    "demo_19": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 17.27428412437439,
+        "extracted_value": "C"
+    },
+    "demo_20": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 9.401151895523071,
+        "extracted_value": "C"
+    },
+    "demo_21": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 72.81235814094543,
+        "extracted_value": "A"
+    },
+    "demo_22": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 8.060314893722534,
+        "extracted_value": "C"
+    },
+    "demo_23": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 12.625507116317749,
+        "extracted_value": "B"
+    },
+    "demo_24": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 7.366106748580933,
+        "extracted_value": "B"
+    },
+    "demo_25": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "The first image shows a person with long, dark hair, seen from a side profile, writing at a desk.\nWe need to find this person in one of the images A, B, C, or D.\n\nImage A: Shows a person with long, dark hair, from a side profile, working at a desk with a laptop. The profile, hair, and general appearance are very similar to the person in the first image. The setting is also similar.\n\nImage B: Shows a person with long, dark hair, driving a car. The facial features visible from a more frontal angle appear consistent with the person in the first image and in image A.\n\nImage C: Shows a person with long, dark hair, wearing a hoodie and glasses, looking towards the camera. The facial features, where visible, and hair seem consistent with the person in the first image and in images A and B.\n\nImage D: Shows a person with shorter, lighter brown hair, sitting at a desk with a laptop. This person appears to be male and looks distinctly different from the person in the first image.\n\nComparing the person in the first image to the options:\n- The person in the first image is clearly the same person as shown in image A. The side profile, hair length and color, and activity (working at a desk) are all highly consistent.\n- The person in image B also appears to be the same individual as in the first image and image A.\n- The person in image C also appears to be the same individual as in the first image, A, and B.\n- The person in image D is clearly a different individual.\n\nSince the task is to identify the person from the portrait in one of the four photos, and images A, B, and C all depict the same person who matches the portrait, any of these would be a correct identification of the person. We need to choose one. Image A provides a very similar pose and context to the portrait.\n\nAnswer: A",
+        "time_taken": 19.10563015937805,
+        "extracted_value": "A"
+    },
+    "demo_26": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "The first image is a portrait of a young woman. She has long dark hair, is wearing a camouflage cap, a light-colored knitted zip-up hoodie/cardigan over a dark top, an earring in her left ear, and a necklace with a pendant (appears to be cross-shaped or a vertical bar). Her right hand is covering her mouth and nose. Key features to look for are her eyes, eyebrows, nose shape (upper part), ear with earring, and the necklace.\n\nNow let's examine the four photos in the second image:\n*   **Image A:** Shows a young man with glasses. This is clearly not the person in the portrait.\n*   **Image B:** Shows a young woman with long dark hair from a high-angle side/back view, working at a desk. She is wearing a tank top and multiple layered necklaces. An earring is visible in her left ear. While her hair and earring are consistent, the multiple layered necklaces are different from the single necklace in the portrait, and her face is not clearly visible for a strong comparison.\n*   **Image C:** Shows a young woman with long dark hair tied up, wearing a grey hoodie. Her face is clearly visible. Her eyes, eyebrows, and nose shape strongly resemble the person in the portrait. An earring is visible in her left ear, similar to the portrait. She is wearing a very fine chain necklace, but the pendant is very small or not clearly visible, and the necklace itself appears less substantial than the one in the portrait.\n*   **Image D:** Shows a young woman with long dark hair down, wearing a brown/olive jacket, sitting on a couch with a laptop. Her face is clearly visible. Her eyes, eyebrows, and nose shape also strongly resemble the person in the portrait. An earring is visible in her left ear. She is wearing a single necklace with a small pendant. The style of this single necklace with a pendant is more consistent with the necklace worn in the portrait (single chain, distinct pendant) than the multiple necklaces in B or the very subtle necklace in C. Additionally, her hair is down, which is consistent with the portrait (hair down under the cap), and her contemplative pose with a hand near her face is somewhat reminiscent of the portrait's pose.\n\nComparing C and D, both offer excellent facial matches. However, the necklace in D (single chain with a visible small pendant) is a better match for the style of necklace in the portrait (single chain with a distinct pendant) than C's very subtle necklace or B's layered necklaces. Also, the hair being down in D is more directly comparable to the portrait.\n\nTherefore, considering the combination of strong facial resemblance and the consistency of the necklace style and hair presentation, Image D is the most likely match.\n\nAnswer: D",
+        "time_taken": 100.23799896240234,
+        "extracted_value": "D"
+    },
+    "demo_27": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 6.9030442237854,
+        "extracted_value": "B"
+    },
+    "demo_28": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 10.258524894714355,
+        "extracted_value": "D"
+    },
+    "demo_29": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 7.131560802459717,
+        "extracted_value": "D"
+    },
+    "demo_30": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "The first image is a portrait of a young woman with long, dark, slightly wavy hair. She appears to be of East Asian descent. We need to identify this person in one of the four photos (A, B, C, D) in the second image.\n\nLet's analyze each photo in the second image:\n- **Photo A:** Shows a person from the side/back, sitting at a desk and looking at a computer screen. This person has long dark hair and is wearing glasses. The visible profile (jawline, nose, cheek) and hair appear consistent with the person in the portrait.\n- **Photo B:** Shows a person with very long, dark, curly/braided hair, facing away from the camera, writing on a whiteboard. The hairstyle and skin tone appear different from the person in the portrait. This is unlikely to be the same person.\n- **Photo C:** Shows a person with long, wavy dark hair that has some lighter highlights, wearing a white coat, looking down and writing. While there are some similarities, the hair texture (more defined waves and highlights) and some facial features (e.g., the nose appears slightly pointier and the face shape more angular from this view) seem different from the person in the portrait.\n- **Photo D:** Shows a person with long dark hair, looking down at a laptop, possibly on a train or plane. The facial features (eyes, nose, mouth shape, overall face shape) and hair are very consistent with the person in the portrait, despite the downward tilt of the head.\n\nComparing the portrait with A and D:\n- Both individuals in A and D appear to be the same ethnicity and have similar hair as the person in the portrait.\n- The person in Photo A wears glasses, which are not present in the portrait. While this doesn't rule them out as the same person, it's a visual difference. The profile in A is a strong match.\n- The person in Photo D is not wearing glasses. The facial features, especially the eyes, nose, and mouth, are clearly visible despite the head being tilted down, and they strongly resemble those of the person in the portrait. The way the hair frames the face is also very similar.\n\nBetween A and D, Photo D provides a more direct facial comparison to the portrait, especially concerning the eyes, nose, and mouth, without the addition of accessories like glasses. The overall resemblance is striking. While A is also a very strong candidate, D appears to be a slightly more direct match to the visual representation in the portrait.\n\nTherefore, the person in the portrait is most clearly identified in Photo D.\n\nAnswer: D",
+        "time_taken": 46.49619388580322,
+        "extracted_value": "D"
+    },
+    "demo_31": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 5.675966024398804,
+        "extracted_value": "B"
+    },
+    "demo_32": {
+        "choices": [
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 60.94922208786011,
+        "extracted_value": "D"
+    },
+    "demo_33": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 9.153245210647583,
+        "extracted_value": "C"
+    },
+    "demo_34": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 18.00351309776306,
+        "extracted_value": "D"
+    },
+    "demo_35": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 8.405009031295776,
+        "extracted_value": "B"
+    },
+    "demo_36": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 52.402937173843384,
+        "extracted_value": "D"
+    },
+    "demo_37": {
+        "choices": [
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 28.327087879180908,
+        "extracted_value": "C"
+    },
+    "demo_38": {
+        "choices": [
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 59.8940269947052,
+        "extracted_value": "C"
+    },
+    "demo_39": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 51.08494591712952,
+        "extracted_value": "D"
+    },
+    "demo_40": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 13.859259843826294,
+        "extracted_value": "A"
+    },
+    "demo_41": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 8.842210054397583,
+        "extracted_value": "C"
+    },
+    "demo_42": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 6.631813049316406,
+        "extracted_value": "C"
+    },
+    "demo_43": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 7.2898900508880615,
+        "extracted_value": "D"
+    },
+    "demo_44": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 8.612757921218872,
+        "extracted_value": "A"
+    },
+    "demo_45": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 22.333632946014404,
+        "extracted_value": "D"
+    },
+    "demo_46": {
+        "choices": [
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 12.045664072036743,
+        "extracted_value": "C"
+    },
+    "demo_47": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 6.608123779296875,
+        "extracted_value": "B"
+    },
+    "demo_48": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 10.547811031341553,
+        "extracted_value": "C"
+    },
+    "demo_49": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 5.772585153579712,
+        "extracted_value": "B"
+    },
+    "demo_50": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 6.502279043197632,
+        "extracted_value": "D"
+    },
+    "demo_51": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "To identify the person shown in the portrait (the first image) within one of the four photos (A, B, C, D) in the second image, we need to compare the visual features.\n\n1.  **Analyze the Portrait (First Image):**\n    *   The person is a Black woman.\n    *   She has long, dark hair styled in braids.\n    *   She is shown in a side profile view.\n    *   Key facial features visible in profile: nose shape, lip fullness, chin shape, forehead.\n    *   There is a watermark \"Khalilah D.\" in the bottom right corner.\n\n2.  **Analyze the Four Photos (A, B, C, D):**\n    *   **Photo A:** Shows an East Asian woman with long dark hair and glasses. This is clearly not a match.\n    *   **Photo B:** Shows a person with short, very curly/coily dark hair, possibly Black. The person is looking down, and the face is partially obscured. The hairstyle is significantly different from the braids in the portrait.\n    *   **Photo C:** Shows a Black woman with dark, curly hair (not braided, appearing to be natural texture). She is looking down and slightly to the side, giving a 3/4 to frontal view of her face.\n    *   **Photo D:** Shows an East Asian woman with long dark hair. This is clearly not a match.\n\n3.  **Compare the Portrait with Potential Matches (B and C):**\n    Since A and D are ethnically different, we focus on B and C.\n\n    *   **Portrait vs. Photo B:**\n        *   **Hairstyle:** Very different (long braids vs. short, tight curls/afro).\n        *   **Facial Features:** The person in B is looking down, making a direct comparison of facial features difficult. While the skin tone is similar, the obscured view and very different hairstyle make it hard to confirm a match based on facial structure.\n\n    *   **Portrait vs. Photo C:**\n        *   **Hairstyle:** Different (long braids vs. medium-length curly hair). However, it's common for individuals to switch between braided styles and their natural hair.\n        *   **Facial Features:**\n            *   **Skin Tone:** Consistent with the portrait.\n            *   **Eyebrows:** The visible part of the eyebrow in the portrait is arched. The eyebrows in Photo C are clearly visible, arched, and well-defined. They appear consistent.\n            *   **Nose:** The profile of the nose in the portrait (slope, tip) appears compatible with the nose structure seen in the 3/4 view in Photo C.\n            *   **Lips:** The portrait shows full lips in profile. Photo C also shows full lips. Consistent.\n            *   **Chin and Jawline:** The portrait shows a rounded chin. The chin in Photo C also appears rounded, and the overall jawline seems consistent.\n            *   **Overall Facial Structure:** The facial features (eyes, nose, mouth, chin) in Photo C, when considered together, create a facial structure that could plausibly produce the side profile seen in the portrait.\n\n4.  **Conclusion:**\n    Comparing the person in the portrait with the people in photos B and C, photo C presents a stronger visual match in terms of underlying facial features (eyebrows, nose shape, lip fullness, chin structure), despite the difference in hairstyle. Changes in hairstyle are common, and the facial characteristics in photo C align well with the profile in the portrait. The person in Photo B is harder to compare due to the angle and the significantly different hair volume and style, making a confident match less certain than with C.\n\nAnswer: C",
+        "time_taken": 78.13978171348572,
+        "extracted_value": "C"
+    },
+    "demo_52": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 13.490462064743042,
+        "extracted_value": "D"
+    },
+    "demo_53": {
+        "choices": [
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 7.220272064208984,
+        "extracted_value": "D"
+    },
+    "demo_54": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 5.362716913223267,
+        "extracted_value": "A"
+    },
+    "demo_55": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 6.516845226287842,
+        "extracted_value": "C"
+    },
+    "demo_56": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 9.265635967254639,
+        "extracted_value": "D"
+    },
+    "demo_57": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 6.463201999664307,
+        "extracted_value": "A"
+    },
+    "demo_58": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 5.8354082107543945,
+        "extracted_value": "B"
+    },
+    "demo_59": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 16.067089080810547,
+        "extracted_value": "B"
+    },
+    "demo_60": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 7.633918046951294,
+        "extracted_value": "B"
+    },
+    "demo_61": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 6.325705289840698,
+        "extracted_value": "A"
+    },
+    "demo_62": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 9.793942928314209,
+        "extracted_value": "C"
+    },
+    "demo_63": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 14.209759950637817,
+        "extracted_value": "B"
+    },
+    "demo_64": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 19.21683692932129,
+        "extracted_value": "C"
+    },
+    "demo_65": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 9.922906160354614,
+        "extracted_value": "C"
+    },
+    "demo_66": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 11.394531011581421,
+        "extracted_value": "A"
+    },
+    "demo_67": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 13.81823205947876,
+        "extracted_value": "B"
+    },
+    "demo_68": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 8.039567947387695,
+        "extracted_value": "C"
+    },
+    "demo_69": {
+        "choices": [
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 12.490242004394531,
+        "extracted_value": "D"
+    },
+    "demo_70": {
+        "choices": [
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 17.005046129226685,
+        "extracted_value": "D"
+    },
+    "demo_71": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 7.051524877548218,
+        "extracted_value": "A"
+    },
+    "demo_72": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 18.17258596420288,
+        "extracted_value": "D"
+    },
+    "demo_73": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 10.42729902267456,
+        "extracted_value": "A"
+    },
+    "demo_74": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 8.618489027023315,
+        "extracted_value": "B"
+    },
+    "demo_75": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 6.234637975692749,
+        "extracted_value": "D"
+    },
+    "demo_76": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 8.19398283958435,
+        "extracted_value": "A"
+    },
+    "demo_77": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 14.935319185256958,
+        "extracted_value": "A"
+    },
+    "demo_78": {
+        "choices": [
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 7.079638719558716,
+        "extracted_value": "D"
+    },
+    "demo_79": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 5.96933388710022,
+        "extracted_value": "C"
+    },
+    "demo_80": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 6.36657190322876,
+        "extracted_value": "A"
+    },
+    "demo_81": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 6.068886041641235,
+        "extracted_value": "D"
+    },
+    "demo_82": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 6.672579050064087,
+        "extracted_value": "D"
+    },
+    "demo_83": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "The first image is a portrait of a person. This person is a young woman with long, dark, straight hair. She is wearing glasses with thin frames. She is seen in a side profile, sitting at a desk, looking at a computer monitor. She is wearing a light-colored top and has an earbud in her left ear.\n\nNow let's examine the four photos in the second image:\n-   **Image A:** Shows a young woman with long, dark, straight hair, wearing glasses that appear similar in style to those in the portrait. She is sitting at a desk, looking at a laptop or tablet. Her facial features, hair, and the presence of glasses are highly consistent with the person in the portrait. The setting (desk) is also similar.\n-   **Image B:** Shows a young man with shorter, lighter hair. This is clearly not the person from the portrait.\n-   **Image C:** Shows a young woman with long, dark, straight hair, wearing a black face mask. She is in a library setting. While her hair and the visible part of her face (eyes, forehead) are consistent with the person in the portrait, the mask obscures key facial features, and it's unclear if she's wearing glasses (though it seems unlikely they are visible).\n-   **Image D:** Shows a young woman with long, dark, straight hair, looking directly at the camera. Her facial features (eyes, nose, mouth, face shape) are very consistent with the person in the portrait. However, she is not wearing glasses in this photo. The setting is also different, and she is wearing a dark top.\n\nComparing the portrait with the options:\nThe person in the portrait is characterized by her facial features, long dark hair, and the fact she is wearing glasses.\n-   Image A shows a person with all these characteristics: very similar facial features, long dark hair, and glasses. The context of being at a desk is also similar.\n-   Image D shows a person with very similar facial features and hair, but she is not wearing glasses.\n-   Image C is plausible in terms of hair and visible upper facial features, but the mask makes definitive identification harder, and she is likely not wearing glasses.\n\nThe task is to identify \"the person shown in the portrait\". Image A presents the strongest resemblance to the person as depicted in the portrait, including the prominent feature of wearing glasses and a similar context. While Image D likely shows the same person, the absence of glasses makes Image A a more direct match to the *depiction* in the portrait.\n\nTherefore, Image A is the correct choice.\n\nAnswer: A",
+        "time_taken": 70.82337307929993,
+        "extracted_value": "A"
+    },
+    "demo_84": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 16.072615146636963,
+        "extracted_value": "B"
+    },
+    "demo_85": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 8.718050003051758,
+        "extracted_value": "C"
+    },
+    "demo_86": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 37.23781991004944,
+        "extracted_value": "D"
+    },
+    "demo_87": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 10.309879064559937,
+        "extracted_value": "C"
+    },
+    "demo_88": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 32.051368951797485,
+        "extracted_value": "D"
+    },
+    "demo_89": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 18.10545516014099,
+        "extracted_value": "B"
+    },
+    "demo_90": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 36.98385286331177,
+        "extracted_value": "B"
+    },
+    "demo_91": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "To identify the person shown in the portrait (first image) within the four photos (A, B, C, D in the second image), we need to compare facial features and prominent accessories.\n\n1.  **Portrait Analysis:** The person in the portrait is a young woman of East Asian descent. She is wearing glasses with thin dark frames and noticeably blue-tinted lenses. She is also wearing a light-colored hoodie with the hood up, and her dark hair is partially visible. Key facial features include her eye shape, nose, mouth, and overall face shape.\n\n2.  **Analysis of Photos A, B, C, D:**\n    *   **Photo A:** Shows a young woman with similar facial features (eyes, nose, mouth, face shape) and dark hair (styled differently, with lighter ends). She is not wearing glasses.\n    *   **Photo B:** Shows a person from the side/back, making detailed facial comparison difficult. She is not wearing glasses.\n    *   **Photo C:** Shows a person from the side, making detailed facial comparison difficult. She is not wearing glasses.\n    *   **Photo D:** Shows a young woman with facial features (eyes, nose, mouth, face shape) that closely match the person in the portrait. Importantly, she is wearing glasses with thin dark frames, very similar in style to those in the portrait. Her dark hair is also visible.\n\n3.  **Comparison and Rationale:**\n    *   The person in the portrait is characterized by her facial features AND the glasses she is wearing.\n    *   Photo A shows a person with highly similar underlying facial features to the portrait, but she is not wearing glasses.\n    *   Photo D shows a person with highly similar underlying facial features AND is wearing glasses that are very similar in style (thin, dark, rectangular-ish frames) to those worn by the person in the portrait.\n    *   While the blue tint on the glasses' lenses is more pronounced in the portrait (possibly due to lighting), the frame style and the fact that the person is wearing glasses are strong matching points.\n    *   Given that the portrait clearly depicts the person wearing glasses, Photo D, which also shows the person with similar glasses and matching facial features, is the most direct and comprehensive match to the person *as shown in the portrait*.\n\nTherefore, Photo D is the correct choice.\n\nAnswer: D",
+        "time_taken": 54.729015827178955,
+        "extracted_value": "D"
+    },
+    "demo_92": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 7.642544746398926,
+        "extracted_value": "A"
+    },
+    "demo_93": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 7.7223381996154785,
+        "extracted_value": "A"
+    },
+    "demo_94": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 21.4879310131073,
+        "extracted_value": "D"
+    },
+    "demo_95": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 25.61968493461609,
+        "extracted_value": "C"
+    },
+    "demo_96": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 8.129816770553589,
+        "extracted_value": "C"
+    },
+    "demo_97": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 19.057186126708984,
+        "extracted_value": "A"
+    },
+    "demo_98": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 9.639575004577637,
+        "extracted_value": "A"
+    },
+    "demo_99": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 31.243327140808105,
+        "extracted_value": "D"
+    },
+    "demo_100": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 7.192286014556885,
+        "extracted_value": "A"
+    },
+    "demo_101": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 7.593687057495117,
+        "extracted_value": "A"
+    },
+    "demo_102": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 16.58187198638916,
+        "extracted_value": "D"
+    },
+    "demo_103": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 6.872711181640625,
+        "extracted_value": "D"
+    },
+    "demo_104": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 10.130946636199951,
+        "extracted_value": "A"
+    },
+    "demo_105": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 7.12968111038208,
+        "extracted_value": "A"
+    },
+    "demo_106": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 8.960963010787964,
+        "extracted_value": "C"
+    },
+    "demo_107": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 8.551559209823608,
+        "extracted_value": "D"
+    },
+    "demo_108": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 7.979395866394043,
+        "extracted_value": "A"
+    },
+    "demo_109": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 9.232479095458984,
+        "extracted_value": "C"
+    },
+    "demo_110": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 6.962378025054932,
+        "extracted_value": "D"
+    },
+    "demo_111": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 7.817354679107666,
+        "extracted_value": "B"
+    },
+    "demo_112": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 7.689772844314575,
+        "extracted_value": "A"
+    },
+    "demo_113": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 5.866228103637695,
+        "extracted_value": "A"
+    },
+    "demo_114": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 11.574727058410645,
+        "extracted_value": "D"
+    },
+    "demo_115": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 7.577471971511841,
+        "extracted_value": "B"
+    },
+    "demo_116": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 5.2838780879974365,
+        "extracted_value": "D"
+    },
+    "demo_117": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 7.2558441162109375,
+        "extracted_value": "C"
+    },
+    "demo_118": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 9.044037103652954,
+        "extracted_value": "C"
+    },
+    "demo_119": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 6.714362144470215,
+        "extracted_value": "A"
+    },
+    "demo_120": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 10.72746992111206,
+        "extracted_value": "C"
+    },
+    "demo_121": {
+        "choices": [
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 7.891752243041992,
+        "extracted_value": "C"
+    },
+    "demo_122": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 9.44918704032898,
+        "extracted_value": "C"
+    },
+    "demo_123": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 10.567493200302124,
+        "extracted_value": "A"
+    },
+    "demo_124": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 5.235630035400391,
+        "extracted_value": "B"
+    },
+    "demo_125": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 13.462098121643066,
+        "extracted_value": "C"
+    },
+    "demo_126": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 5.913231134414673,
+        "extracted_value": "B"
+    },
+    "demo_127": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 5.862885236740112,
+        "extracted_value": "C"
+    },
+    "demo_128": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 12.426769018173218,
+        "extracted_value": "D"
+    },
+    "demo_129": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 40.43388509750366,
+        "extracted_value": "A"
+    },
+    "demo_130": {
+        "choices": [
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 8.47131633758545,
+        "extracted_value": "C"
+    },
+    "demo_131": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 12.04661512374878,
+        "extracted_value": "C"
+    },
+    "demo_132": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 24.738653898239136,
+        "extracted_value": "B"
+    },
+    "demo_133": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 6.346888065338135,
+        "extracted_value": "C"
+    },
+    "demo_134": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 6.923654794692993,
+        "extracted_value": "A"
+    },
+    "demo_135": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Let's analyze the images:\n1.  **Portrait Image:** Shows a person, likely female, with East Asian features. She has long hair with significant light brown or blonde highlights. Her eyes are mostly closed. Key facial features to note are the shape of her nose, lips, chin, and overall face structure. She is wearing a blue t-shirt and necklaces.\n\n2.  **Concatenated Image (A, B, C, D):**\n    *   **Photo A:** Shows a young male with light brown/blonde hair, different facial features. This is clearly not the person in the portrait.\n    *   **Photo B:** Shows a person in profile, with long, dark hair, looking down at a laptop. The person appears to be female with East Asian features. The facial profile (nose, jawline) could be consistent with the person in the portrait, but the hair color is different (dark vs. highlighted).\n    *   **Photo C:** Shows a person mostly from the back and side, with dark, curly/wavy hair. Facial features are not clearly visible, but the hair texture and the partial view do not strongly suggest it's the same person from the portrait.\n    *   **Photo D:** Shows a person with long, dark hair, wearing glasses, and looking slightly upwards. This person also appears to be female with East Asian features.\n\n**Comparison:**\nWe need to find the person from the portrait in one of the photos A, B, C, or D.\n*   A and C can be quickly ruled out due to distinctly different appearances.\n*   The comparison is primarily between the portrait and photos B and D. Both individuals in B and D have dark hair, which contrasts with the highlighted hair in the portrait. However, hair color can be changed or appear different due to lighting. We should focus on more permanent facial features.\n*   The individuals in photos B and D appear to be the same person, viewed from different angles and with/without glasses.\n\n**Comparing the portrait with Photo B (profile view):**\n*   The profile of the nose and jawline in photo B seems consistent with the person in the portrait.\n*   Hair is dark, portrait hair is highlighted.\n\n**Comparing the portrait with Photo D (more frontal view, with glasses):**\n*   **Nose:** The shape of the nose (bridge, tip, width) in photo D is a very strong match to the nose in the portrait.\n*   **Lips:** The shape and fullness of the lips (especially the defined Cupid's bow of the upper lip and the fullness of the lower lip) in photo D are a very strong match to the lips in the portrait.\n*   **Chin and Jawline:** The rounded chin and the overall contour of the lower face in photo D are also very similar to the portrait.\n*   **Face Shape:** The overall oval face shape is consistent.\n*   **Eyebrows:** The visible part of the eyebrows above the glasses in photo D appears similar in shape and thickness to the eyebrows in the portrait.\n*   **Hair:** Dark in photo D, highlighted in the portrait.\n*   **Glasses:** Present in photo D, not in the portrait.\n\n**Conclusion:**\nDespite the differences in hair color and the presence of glasses, the underlying facial features (nose, lips, chin, face shape) of the person in photo D show a very strong resemblance to the person in the portrait. Photo B also shows a plausible match in profile, and B and D are likely the same person. However, photo D provides a more direct view of several key facial features (like the lips and nose structure) that align exceptionally well with the portrait. Therefore, prioritizing facial structure over mutable characteristics like hair color or accessories, photo D is the best match.\n\nAnswer: D",
+        "time_taken": 69.2539472579956,
+        "extracted_value": "D"
+    },
+    "demo_136": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 16.581923007965088,
+        "extracted_value": "C"
+    },
+    "demo_137": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 26.23056173324585,
+        "extracted_value": "D"
+    },
+    "demo_138": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 75.19119596481323,
+        "extracted_value": "B"
+    },
+    "demo_139": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 8.295013189315796,
+        "extracted_value": "A"
+    },
+    "demo_140": {
+        "choices": [
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 8.547350645065308,
+        "extracted_value": "D"
+    },
+    "demo_141": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 39.55654287338257,
+        "extracted_value": "C"
+    },
+    "demo_142": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "The task is to identify the person shown in the first image (portrait) within one of the four photos (A, B, C, D) in the second image.\n\n1.  **Analyze the Portrait (First Image):**\n    *   The person is a young woman.\n    *   She has long, dark, straight or slightly wavy hair.\n    *   Her facial features include dark eyes, a distinct nose shape, and lip shape.\n    *   She is wearing headphones and a grey hoodie.\n    *   The view is a three-quarter portrait.\n\n2.  **Analyze Photo A:**\n    *   This photo shows a young woman with long, dark hair, similar in style and color to the portrait.\n    *   Her facial features (eyes, nose, lips, face shape) closely resemble the person in the portrait.\n    *   She is looking down. The view is mostly frontal/three-quarter.\n\n3.  **Analyze Photo B:**\n    *   This photo shows a young woman from a side profile.\n    *   She has long, dark hair, consistent with the portrait.\n    *   Her facial profile (nose shape, lips, chin) appears very similar to what can be inferred from the portrait.\n\n4.  **Analyze Photo C:**\n    *   This photo shows a person with curly dark hair.\n    *   The facial features (e.g., nose shape, hair texture) are distinctly different from the person in the portrait.\n\n5.  **Analyze Photo D:**\n    *   This photo shows a person with shorter, wavy/curly dark hair.\n    *   The facial features and overall appearance are different from the person in the portrait. This person appears to be male or at least a different individual.\n\n6.  **Comparison and Conclusion:**\n    *   Photos C and D show individuals clearly different from the person in the portrait.\n    *   Photo A shows a person whose facial features (eyes, nose, mouth, face shape, hair) are a very strong match for the person in the portrait. The angle of the face in Photo A allows for a good comparison with the three-quarter view in the portrait.\n    *   Photo B also shows a person who strongly resembles the person in the portrait, particularly in profile. The hair and facial structure visible from the side are consistent.\n\n    Both A and B appear to be the same person as in the portrait. However, Photo A provides a more direct view for comparing multiple facial features simultaneously with the portrait, which is not a pure profile. The resemblance in Photo A is immediate and covers more of the facial details visible in the portrait (e.g., shape of both eyes, full nose shape from a near-frontal angle, mouth shape).\n\n    Given the choices, Photo A is an excellent match.\n\nAnswer: A",
+        "time_taken": 46.595799922943115,
+        "extracted_value": "A"
+    },
+    "demo_143": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 9.262454986572266,
+        "extracted_value": "A"
+    },
+    "demo_144": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 29.935858011245728,
+        "extracted_value": "D"
+    },
+    "demo_145": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 12.445190906524658,
+        "extracted_value": "D"
+    },
+    "demo_146": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 9.111518144607544,
+        "extracted_value": "C"
+    },
+    "demo_147": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 8.7255859375,
+        "extracted_value": "C"
+    },
+    "demo_148": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 62.50419306755066,
+        "extracted_value": "A"
+    },
+    "demo_149": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 6.758697032928467,
+        "extracted_value": "A"
+    },
+    "demo_150": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 6.963885068893433,
+        "extracted_value": "D"
+    },
+    "demo_151": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 10.396006107330322,
+        "extracted_value": "C"
+    },
+    "demo_152": {
+        "choices": [
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 9.125470161437988,
+        "extracted_value": "C"
+    },
+    "demo_153": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 6.322746753692627,
+        "extracted_value": "C"
+    },
+    "demo_154": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 38.250226974487305,
+        "extracted_value": "D"
+    },
+    "demo_155": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 67.68779516220093,
+        "extracted_value": "A"
+    },
+    "demo_156": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 5.403167247772217,
+        "extracted_value": "D"
+    },
+    "demo_157": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 11.492224931716919,
+        "extracted_value": "A"
+    },
+    "demo_158": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 18.401093244552612,
+        "extracted_value": "B"
+    },
+    "demo_159": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "The first image is a portrait of a young woman with long, wavy brown hair with prominent lighter highlights. She is looking down, writing, and wearing a white robe over a pink top.\n\nWe need to find this person in one of the four photos (A, B, C, D) in the second image.\n\n*   **Image A:** Shows a young woman with long, wavy brown hair with highlights, very similar to the portrait. She is looking down. Her facial features (lower half visible) and hair (style, color, highlights, waviness) are a very strong match to the person in the portrait. She is wearing a dark top.\n*   **Image B:** Shows a young woman with long brown hair (appears straighter than in the portrait) and glasses, making a peace sign. While potentially the same person with a different hairstyle and glasses, the match is less direct and certain than A or D.\n*   **Image C:** Shows a young person with short, curly dark hair. This person looks distinctly different from the person in the portrait.\n*   **Image D:** Shows a young woman with long brown hair with highlights, sitting at a desk and looking at a phone. Her hair (length, color, highlights) is a very strong match. Her facial profile (forehead, nose, lips, chin) is also a very strong match to the person in the portrait. She is wearing a pink top, which is similar in color to the top visible under the robe in the portrait.\n\nBoth Image A and Image D show a person who very strongly resembles the person in the portrait.\n*   Image A offers a similar angle (3/4 looking down) for the lower face and an almost identical hairstyle presentation.\n*   Image D offers a clear profile view which is very consistent with the portrait, an equally strong hair match, and the additional detail of a pink top, similar to the one worn in the portrait.\n\nConsidering all features:\n1.  **Hair Match:** Both A and D have excellent hair matches to the portrait in terms of color, highlights, length, and texture (wavy).\n2.  **Facial Features Match:**\n    *   A: The visible lower facial features from a 3/4 downward angle are highly consistent with the portrait.\n    *   D: The facial profile is highly consistent with the portrait.\n3.  **Clothing Consistency:** The person in the portrait wears a pink top under a robe. The person in Image D is wearing a pink top. This is a point of consistency not present with Image A (dark top).\n\nGiven that the facial and hair features in both A and D are exceptionally strong matches to the portrait, the additional consistency of the pink top in Image D makes it a slightly more compelling choice as identifying the same person. It's highly probable that the person in the portrait, A, and D are all the same individual. Choosing between A and D, the combination of strong facial/hair match and the clothing link in D makes it the best choice.\n\nAnswer: D",
+        "time_taken": 78.52603697776794,
+        "extracted_value": "D"
+    },
+    "demo_160": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 7.8188488483428955,
+        "extracted_value": "B"
+    },
+    "demo_161": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 71.66607165336609,
+        "extracted_value": "C"
+    },
+    "demo_162": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 45.60194492340088,
+        "extracted_value": "B"
+    },
+    "demo_163": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 9.517957925796509,
+        "extracted_value": "A"
+    },
+    "demo_164": {
+        "choices": [
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 16.42249298095703,
+        "extracted_value": "D"
+    },
+    "demo_165": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 6.234300136566162,
+        "extracted_value": "D"
+    },
+    "demo_166": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 8.480412244796753,
+        "extracted_value": "D"
+    },
+    "demo_167": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 7.665531873703003,
+        "extracted_value": "C"
+    },
+    "demo_168": {
+        "choices": [
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 5.688495874404907,
+        "extracted_value": "D"
+    },
+    "demo_169": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 7.541614055633545,
+        "extracted_value": "A"
+    },
+    "demo_170": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 33.58877682685852,
+        "extracted_value": "C"
+    },
+    "demo_171": {
+        "choices": [
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 8.032357931137085,
+        "extracted_value": "D"
+    },
+    "demo_172": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 10.30102014541626,
+        "extracted_value": "B"
+    },
+    "demo_173": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 8.692723989486694,
+        "extracted_value": "C"
+    },
+    "demo_174": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 6.949510097503662,
+        "extracted_value": "B"
+    },
+    "demo_175": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 8.042545080184937,
+        "extracted_value": "A"
+    },
+    "demo_176": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 42.29378008842468,
+        "extracted_value": "D"
+    },
+    "demo_177": {
+        "choices": [
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 7.563076734542847,
+        "extracted_value": "D"
+    },
+    "demo_178": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 10.421279191970825,
+        "extracted_value": "B"
+    },
+    "demo_179": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 11.771492004394531,
+        "extracted_value": "C"
+    },
+    "demo_180": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 13.209668159484863,
+        "extracted_value": "A"
+    },
+    "demo_181": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 8.651018857955933,
+        "extracted_value": "A"
+    },
+    "demo_182": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 6.539677858352661,
+        "extracted_value": "C"
+    },
+    "demo_183": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 9.417880773544312,
+        "extracted_value": "A"
+    },
+    "demo_184": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 12.310158014297485,
+        "extracted_value": "B"
+    },
+    "demo_185": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 6.977982997894287,
+        "extracted_value": "C"
+    },
+    "demo_186": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 10.043991088867188,
+        "extracted_value": "B"
+    },
+    "demo_187": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 8.350036859512329,
+        "extracted_value": "C"
+    },
+    "demo_188": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 30.170225143432617,
+        "extracted_value": "B"
+    },
+    "demo_189": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 11.378448963165283,
+        "extracted_value": "A"
+    },
+    "demo_190": {
+        "choices": [
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 66.60831999778748,
+        "extracted_value": "C"
+    },
+    "demo_191": {
+        "choices": [
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 10.12660026550293,
+        "extracted_value": "A"
+    },
+    "demo_192": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 19.677608966827393,
+        "extracted_value": "C"
+    },
+    "demo_193": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 6.712576150894165,
+        "extracted_value": "C"
+    },
+    "demo_194": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "D",
+            "correct": true
+        },
+        "response": "Answer: D",
+        "time_taken": 7.2417311668396,
+        "extracted_value": "D"
+    },
+    "demo_195": {
+        "choices": [
+            {
+                "choice": "C",
+                "correct": true
+            },
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "C",
+            "correct": true
+        },
+        "response": "Answer: C",
+        "time_taken": 30.695351123809814,
+        "extracted_value": "C"
+    },
+    "demo_196": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 8.669285774230957,
+        "extracted_value": "B"
+    },
+    "demo_197": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 8.394505023956299,
+        "extracted_value": "B"
+    },
+    "demo_198": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": true
+            },
+            {
+                "choice": "B",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "A",
+            "correct": true
+        },
+        "response": "Answer: A",
+        "time_taken": 17.086301803588867,
+        "extracted_value": "A"
+    },
+    "demo_199": {
+        "choices": [
+            {
+                "choice": "A",
+                "correct": false
+            },
+            {
+                "choice": "C",
+                "correct": false
+            },
+            {
+                "choice": "B",
+                "correct": true
+            },
+            {
+                "choice": "D",
+                "correct": false
+            }
+        ],
+        "correct_answer": {
+            "choice": "B",
+            "correct": true
+        },
+        "response": "Answer: B",
+        "time_taken": 6.138228893280029,
+        "extracted_value": "B"
+    },
+    "summary": "Total correct count: 164,\n total count: 200, \n accuracy: 0.82, \n time taken: 3521.4827036857605, \n average time: 17.607413518428803 \n"
+}
