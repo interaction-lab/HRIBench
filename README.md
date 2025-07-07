@@ -2,6 +2,8 @@
 
 To systematically study VLM capabilities in human perception for HRI and performance-latency trade-offs, we introduce HRIBench, a visual question-answering (VQA) benchmark designed to evaluate VLMs across a diverse set of human perceptual tasks critical for HRI. HRIBench covers five key domains: (1) non-verbal cue understanding, (2) verbal instruction understanding, (3) human-robot-object relationship understanding, (4) social navigation, and (5) person identification. To construct HRIBench, we collected data from real-world HRI environments to curate questions for non-verbal cue understanding, and leveraged publicly available datasets for the remaining four domains. We curated 200 VQA questions for each domain, resulting in a total of 1000 questions for HRIBench.
 
+You can find more details regarding our methods and results in [our paper](https://arxiv.org/abs/2506.20566).
+
 ### Dataset Access
 
 You can download HRIBench using [this google drive link](https://drive.google.com/drive/folders/1nb0iFCXC9FiMFV9sUWzfjW7owm2Dlmmo?usp=sharing).
