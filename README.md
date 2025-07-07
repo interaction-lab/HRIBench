@@ -14,7 +14,7 @@ Since we used frames from YouTube videos for the domain of person identification
 
 ### Dataset Structure
 
-HRIBench follows the same dataset strcture as [ManipBench](https://manipbench.github.io/).
+HRIBench follows the same dataset strcture as [ManipBench](https://arxiv.org/pdf/2505.09698).
 
 For each domain, there are 200 VQA questions (demo_0 - demo_199). Within each question, the following files are included:
 
